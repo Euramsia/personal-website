@@ -1,7 +1,46 @@
-+++
-date = "2020-02-02"
-title = "Student research competition - igem (Summer 2019)"
-+++
+---
+title: "Student research competition - iGEM 2019"
+subtitle: "Where my team and me worked on saving the bees and learned how to do research"
+
+# Summary for listings and search engines
+summary: "Where my team and me worked on saving the bees and learned how to do research"
+
+# Link this post with a project
+projects: []
+
+# Date published
+date: "2020-12-13T00:00:00Z"
+
+# Date updated
+lastmod: "2020-12-13T00:00:00Z"
+
+# Is this an unpublished draft?
+draft: false
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image:
+  caption: "The stress wiped away by success"
+  focal_point: ""
+  placement: 2
+  preview_only: false
+
+authors:
+- admin
+
+tags:
+- Research
+- Project
+- Team
+- Student
+- Personal
+- Experience
+
+categories:
+- Research
+- Blog
+- Personal
+---
 
 I want to tell you the story of my experience team leader of [iGEM NAWI Graz 2019](http://www.igem-graz.at/2019/).
 What is [iGEM](https://igem.org/Main_Page)?
