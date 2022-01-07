@@ -1,12 +1,12 @@
 ---
 title: "Student research competition - iGEM 2019"
-subtitle: "Where my team and me worked on saving the bees and learned how to do research"
+subtitle: "Where my team and Ime worked on saving the bees and learned how to do research"
 
 # Summary for listings and search engines
 summary: "Where my team and me worked on saving the bees and learned how to do research"
 
 # Link this post with a project
-projects: []
+projects: [beeosensor]
 
 # Date published
 date: "2020-12-13T00:00:00Z"
