@@ -16,19 +16,19 @@ image:
   focal_point: Smart
 
 links:
+- name: Documentation
+  url: https://2019.igem.org/Team:NAWI_Graz
 - icon: twitter
   icon_pack: fab
   name: Follow
   url: https://twitter.com/F_Schweigkofler
-- name: documentation
-  url: https://2019.igem.org/Team:NAWI_Graz
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: "" 
 
 publication: beeosensor
-url_post: igem
+post: igem
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
