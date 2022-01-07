@@ -1,5 +1,5 @@
 ---
-title: "Bachelor Thesis: In-silico identification, production and verification of the receptor binding protein of the Paenibacillus phage HB10c2"
+title: "Der Klimawandel in Südtirol und sein Einfluss auf die Landwirtschaft"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -23,10 +23,10 @@ publication_types: ["7"]
 publication: ""
 publication_short: ""
 
-abstract: Summary
+abstract: Climate Change is surely one of the bigges, if not the biggest problem that we will have to deal with in future. A lot depends on the farmers as they are ultimantely those who implement the best solutions and carry the highest risk. The future depends on the decisions they make today. They give agriculture and thus the land itself a face. But they should not be left in the rain alone, rather they should be adviced by institutions such as the Beratungsring, the Laimburg, and the Südtiroler Bauernbund. These institutions will increasingly be confronted with climate-related problems, so they should prepare. If we understand to steer agricutlure, we will be able to manage the changes without too much damage.
 
 # Summary. An optional shortened abstract.
-summary: Summary
+summary: South Tyrol and its agriculture will be faced with quite drastic changes in it's climate and needs to prepare well to be ready.
 
 tags: [Agriculture, High school, Award]
 
