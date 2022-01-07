@@ -24,10 +24,13 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-url_documentation: "https://2019.igem.org/Team:NAWI_Graz"
+url_documentation: 
+links:
+- name: documentation
+  url: https://2019.igem.org/Team:NAWI_Graz
 
-publications: beeosensor
-url_posts: igem
+publication: beeosensor
+url_post: igem
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
