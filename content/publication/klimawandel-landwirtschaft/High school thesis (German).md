@@ -50,17 +50,9 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Protein folding prediction of gp17 as trimer by Henrik Seyfried (iGEM team member), a the target candidate of the thesis'
+  caption:   'Mittlere Temperaturveränderung in Europa und global, [Bildungsserver.de](https://wiki.bildungsserver.de/klimawandel/index.php/Datei:Temp_eu_global.jpg)'
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- beeosensor
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
