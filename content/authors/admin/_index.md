@@ -71,6 +71,4 @@ Felix Schweigkofler is a student of Neuroscience and Cognition at Utrecht Univer
 
 His research included molecular as well as pyschological topics. Currently he is finishing his Master's studies and is part of a student initiative to promote Open Science.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
-
-<!--- was demo_resume.pdf instead of cv.pdf --->
+{{< icon name="download" pack="fas" >}} Open my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
