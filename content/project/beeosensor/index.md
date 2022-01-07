@@ -20,10 +20,14 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/F_Schweigkofler
-url_code: "https://2019.igem.org/Team:NAWI_Graz"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+url_documentation: "https://2019.igem.org/Team:NAWI_Graz"
+
+publications: beeosensor
+posts: igem
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
