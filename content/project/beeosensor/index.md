@@ -45,6 +45,3 @@ The American Foulbrood (AFB) is the second-most dangerous bee disease after the 
 For the international student competition iGEM 2019 our team proved that the spores of the bacterium can be detected by using a biosensor covered with _P. larvae_ bacteriophages. To make the sensor a viable tool requires tuning the sensor to reliably detect very low concentrations. A business model for the sensor could be to give the sensor away for free and charge for the electrodes necessary for each measurement.
 
 The full documentation of the project is available in the [wiki-system of iGEM](https://2019.igem.org/Team:NAWI_Graz).
-
-Testing a hive with the beeosensor (made by Oskar May)
-{{< video library="true" src="beeosensor.mp4" controls="yes" >}}
