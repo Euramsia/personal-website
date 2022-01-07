@@ -20,14 +20,12 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/F_Schweigkofler
+- name: documentation
+  url: https://2019.igem.org/Team:NAWI_Graz
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
-url_documentation: 
-links:
-- name: documentation
-  url: https://2019.igem.org/Team:NAWI_Graz
+url_video: "" 
 
 publication: beeosensor
 url_post: igem
