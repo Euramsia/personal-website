@@ -1,5 +1,5 @@
 ---
-title: "Der Klimawandel in Südtirol und sein Einfluss auf die Landwirtschaft"
+title: "High school thesis: Der Klimawandel in Südtirol und sein Einfluss auf die Landwirtschaft"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -20,8 +20,8 @@ publishDate: "2021-01-01T00:00:00Z"
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "self-published"
+publication_short: "self-published"
 
 abstract: Climate Change is surely one of the bigges, if not the biggest problem that we will have to deal with in future. A lot depends on the farmers as they are ultimantely those who implement the best solutions and carry the highest risk. The future depends on the decisions they make today. They give agriculture and thus the land itself a face. But they should not be left in the rain alone, rather they should be adviced by institutions such as the Beratungsring, the Laimburg, and the Südtiroler Bauernbund. These institutions will increasingly be confronted with climate-related problems, so they should prepare. If we understand to steer agricutlure, we will be able to manage the changes without too much damage.
 
@@ -62,6 +62,4 @@ image:
 # slides: example
 ---
 
-This is the thesis I wrote in my last year at the high school with a specialization in agriculture. I summarized the effects of the climate change in South Tyrol with regard to its impact on the local agriculture and how the different sectors can react to it. For this thesis I was won the Seppel-Lamprecht-Stipend.
-
-[Der Klimawandel in Südtirol und dessen Einfluss auf die Landwirtschaft](https://www.felixschweigkofler.com/OfL.pdf)
+This is the thesis I wrote in my last year at the high school with a specialization in agriculture. I summarized the effects of the climate change in South Tyrol with regard to its impact on the local agriculture and how the different sectors can react to it. For this thesis I was won the Seppel-Lamprecht-Stipend for outstanding services to the agriculture of South Tyrol for pupils of the students of the South Tyrolean [High school for Agriculture](https://ofl-auer.it/).
