@@ -29,8 +29,8 @@ content:
     tag: '*'
   - name: Psychology
     tag: Psychology
-  - name: Other
-    tag: Demo
+  - name: Biology
+    tag: Biology
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
