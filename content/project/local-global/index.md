@@ -16,7 +16,7 @@ image:
   focal_point: Smart
 
 links:
-- name: Repository
+- name: Project repository
   url: https://osf.io/n8sge/
 - icon: twitter
   icon_pack: fab
