@@ -35,6 +35,7 @@ tags:
 - Student
 - Personal
 - Experience
+- Award
 
 categories:
 - Research
