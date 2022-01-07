@@ -69,3 +69,5 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+
+This thesis was done in parallel with the [iGEM](https://www.felixschweigkofler.com/post/igem/)-project [Beeosensor](https://www.felixschweigkofler.com/project/beeosensor/), which uses the bacteriophage whose RBP is the topic of this publication. The trimer-model of the protein (picture above) was created by my team colleague Henrik Seyfried.
