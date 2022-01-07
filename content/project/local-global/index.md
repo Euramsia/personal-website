@@ -1,12 +1,12 @@
 ---
-title: Local-global perception bias
+title: Local-global perception bias 
 summary: Understanding perception bias by correlating similar but not identical local-global hierarchical shape tasks (Navon figures)
 tags:
 - Research
 - Student
 - Psychology
 - Internship
-date: "2022-01-27T00:00:00Z"
+date: "2022-01-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://osf.io/n8sge/
