@@ -20,8 +20,8 @@ publishDate: "2021-01-01T00:00:00Z"
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: "self-published"
-publication_short: "self-published"
+publication: "Self-published"
+publication_short: "Self-published"
 
 abstract: Climate Change is surely one of the bigges, if not the biggest problem that we will have to deal with in future. A lot depends on the farmers as they are ultimantely those who implement the best solutions and carry the highest risk. The future depends on the decisions they make today. They give agriculture and thus the land itself a face. But they should not be left in the rain alone, rather they should be adviced by institutions such as the Beratungsring, the Laimburg, and the Südtiroler Bauernbund. These institutions will increasingly be confronted with climate-related problems, so they should prepare. If we understand to steer agricutlure, we will be able to manage the changes without too much damage.
 
