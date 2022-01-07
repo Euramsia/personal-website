@@ -16,8 +16,6 @@ image:
   focal_point: Smart
 
 links:
-- name: Documentation
-  url: https://2019.igem.org/Team:NAWI_Graz
 - name: Blogpost
   url: https://www.felixschweigkofler.com/post/igem/
 - icon: twitter
