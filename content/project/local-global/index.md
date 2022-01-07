@@ -9,15 +9,15 @@ tags:
 date: "2022-01-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://osf.io/n8sge/
+external_link: ""
 
 image:
   caption: Beeosensor Logo
   focal_point: Smart
 
 links:
-- name: Blogpost
-  url: https://www.felixschweigkofler.com/post/igem/
+- name: Repository
+  url: https://osf.io/n8sge/
 - icon: twitter
   icon_pack: fab
   name: Follow
