@@ -46,4 +46,5 @@ For the international student competition iGEM 2019 our team proved that the spo
 
 The full documentation of the project is available in the [wiki-system of iGEM](https://2019.igem.org/Team:NAWI_Graz).
 
-[Beeosensor concept](https://2019.igem.org/wiki/images/6/64/T--NAWI_Graz--Description_Video.mp4)
+Testing a hive with the beeosensor (made by Oskar May)
+{{< video library="true" src="beeosensor.mp4" controls="yes" >}}
