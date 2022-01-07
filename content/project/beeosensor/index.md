@@ -27,7 +27,7 @@ url_video: ""
 url_documentation: "https://2019.igem.org/Team:NAWI_Graz"
 
 publications: beeosensor
-posts: igem
+url_posts: igem
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
