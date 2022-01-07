@@ -14,7 +14,9 @@ main:
     url: '#projects'
     weight: 30
   - name: Publications
-    url: '#featured'
+    url: https://www.felixschweigkofler.com/publication/
+ # - name: Publications
+ #   url: '#featured'
     weight: 50
   - name: Contact
     url: '#contact'
