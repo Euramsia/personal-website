@@ -17,7 +17,7 @@ draft: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: "My fundraising team in front of a 'Sanka' of the Bavarian Red Cross [Image source](https://www.brk-ffb.de/leichte-sprache/aktuelles/presse-service/meldung/brk-startet-haustuerwerbung.html)"
+  caption: "My fundraising team in front of a 'Sanka' of the Bavarian Red Cross, [Image source](https://www.brk-ffb.de/leichte-sprache/aktuelles/presse-service/meldung/brk-startet-haustuerwerbung.html)"
   focal_point: ""
   placement: 2
   preview_only: false
@@ -40,6 +40,7 @@ categories:
 
 Summer 2020 I was a fundraiser for the Red Cross in Germany, a job unlike any other. In my first week I woke up every morning with the same thought:
 > This job is so strange.
+
 In the second week I got used to it and now six weeks and over 100000 Euro in donations later I feel able to formulate where this feeling came from and what it means.
 
 But let's start from the beginning.
@@ -52,11 +53,11 @@ The Red Cross is an important aid agency in Germany with a variety of services, 
 
 ### FUNDRAISING IN A NUTSHELL
 
-And this is where fundraising comes into play. Money does not flow freely, as anybody can imagine. When was the last time you stood up from your lunch and thought “Hey, I should donate to some organization?” and actually transferred money? And even if you did, it was probably not the Red Cross. You are a great example why fundraising donations is necessary. People don’t just donate, they need a reason, a spark or a gentle push. Sometimes the reason is a social commitment, somtimes the spark is a good experience with the Red Cross after an accident, and sometimes the gentle push is a letter at Christmas asking for a donation, but better than these three alone works a fundraiser knocking at the door: “Hello, Grüß Gott, I’m from the Red Cross. We are here in Hintertupfing for our big support campaign."
+And this is where fundraising comes into play. Money does not flow freely, as anybody can imagine. When was the last time you stood up from your lunch, thought “Hey, I should donate to some organization?” and actually transferred money? And even if you did, it was probably not the Red Cross. You are a great example why fundraising donations is necessary. People don’t just donate, they need a reason, a spark or a gentle push. Sometimes the reason is a social commitment, somtimes the spark is a good experience with the Red Cross after an accident, and sometimes the gentle push is a letter at Christmas asking for a donation, but better than these three alone works a fundraiser knocking at the door: “Hello, Grüß Gott, I’m from the Red Cross. We are here in Hintertupfing for our big support campaign. Your neighbors are already supporting us, surely you will also join in."
 
 Door-to-door fundraising is empirically shown to be the most effective and also most efficient form of convincing people to donate, if it is done professionally though agencies like [KOBER GmbH](https://deinferienjob.com/unternehmen/) with the right training and expertise. Letter campaigns sometimes barely break even while our door-to-door fundraising brought in the costs tenfold and more. "This is how your local Red Cross can train and equip the volunteers that keep you safe, day and night!"
 
-People want to donate. But usually this deep longing to do something good is buried under several layers of doubts, laziness and indecisiveness. Our task as fundraisers is to unveil it and bring the money where it is needed while leaving the citizen with a smile and a good feeling. That is necessary, because they can terminate their support at any time - “We are the Red Cross, we are known for our voluntary nature, that’s why you decide what amount you want to support us with and for how long you want to support us."
+We all want to do good deeds. But usually this deep longing to donate to worthwhile causes is buried under several layers of doubts, laziness and indecisiveness. Our task as fundraisers is to unveil it and bring the money where it is needed, while leaving the citizen with a smile and a good feeling. That good feeling is important, because they can terminate their support at any time: "We are the Red Cross, we are known for our voluntary nature, that’s why you decide what amount you want to support us with and for how long you want to support us." But we fundraisers make sure there is some support in the first place.
 
 ### THE TEAM
 
@@ -73,7 +74,7 @@ If you do not dream of it then you are lucky, then it is only 16/7. From the tim
 As provocative as it may sound - if I had said goodbye each time someone said no, the Red Cross would only have gotten a fraction of the funds that I raised. The first reaction of citizens usually is no. Only 10% of the people who end up donating say yes right after my introduction. Most people say “no” or more commonly “no, because …”. A pure “no” is tough, but you can work with a “no, because …”. A rule of thumb is: The first no is a reflex, the second no ist just doubt (either about the procedure or lack of information about the Red Cross) and the third no may reveal the real unwillingness to donate. After each no you turn another round to bring people to donate. Depending on the person and their mood you need to stop after the first time they say no, but with some people you can turn many many rounds and if they like you they may even laughingly say yes after 10 "no". Learning how to do this (and also when not to turn round after round) requires a lot of resilience, because it is very demoralizing to hear "no" after "no" and pushing back every time calmly and/or charmingly and/or energetically, depending on your style.
 
 **Only the performance counts.**
-The job is 100% commission based (different with other agencies) and thus performance based, but there is no stress or pressure, no tasks you need to complete. You get your money for a successful donation which requires a talk and the completion of a form. That takes between 5 and 30 minutes, depending on the citizen you are talking with. How many of those donations you bring in, how many doors you knock on, if you rest for half an hour or 3 hours is up to you. It is like piecework, but very talent-based.
+The job with Kober is 100% commission based (however, in the first five weeks Kober pays at least €360 per week regardless of your performance) and thus performance based, but there is no stress or pressure, no tasks you need to complete. You get your money for a successful donation which requires a talk and the completion of a form. That takes between 5 and 30 minutes, depending on the citizen you are talking with. How many of those donations you bring in, how many doors you knock on, if you rest for half an hour or 3 hours is up to you. It is like piecework, but very talent-based.
 
 **Success seems almost random in the beginning.**
 Some days are bad, some days are good and it is difficult to grasp what causes the fluctuation. The team leader is an experienced fundraiser and trains the newbies during the first weeks, but still it is not easy to understand what is good and what is bad and how to improve. That can be very frustrating, but it feels great when you have success, when you are “writing door after door”.
@@ -81,17 +82,18 @@ Some days are bad, some days are good and it is difficult to grasp what causes t
 **Mindset is crucial.**
 I know this sounds a lot like rich-by-tomorrow-sigma-grindset-hustle-culture-self-help-guru platitudes, but my experience in fundraising really showed me how much of a difference the mindset can make. Your mindset has an impact on your mood and your mood and poise determine whether people are willing to donate. One of the easier beliefs that a fundraiser must hold regardless of the person opening the door:
 > Everybody wants to donate, donating to the Red Cross is the most natural thing in the world to do.
+
 This was a weird thing for me as a scientifically thinking person to do, but I got used to it.
 
 **Everybody has their own style.**
 Despite some general things, when it comes about bringing the best performance, everybody needs to find their own way of doing things, otherwise the results will only be mediocre. Fundraising makes it very obvious. I had a team colleague who was seemingly exploding with joy and engergy, and one who was so calm and apparently desinterested, that he almost seemed depressed and both where writing (lingo for: signing people up) very well. People often intuitively know best what to do and how to do it, and any leader, while providing constructive critism, needs to respect and encourage that.
 
 **It is honorable work with banal motives.**
- The good cause gives you a comfortable feeling and you can see yourself as the good guy, but in the end it is about the commission, because that is the only money you will get for your hard work. And after all it’s work like every other - it needs to pay the bills. So the commission is the reason why you knock at door after door, while sweating from the heat reflected by the asphalt and the concrete buildings, when the rain is dropping from your hair into your eyes, while being hit by the smell of a stinky flat, while trying to drown out the barking of a dog, after being treated in a less-than-nice manner three times in a row. There is a reason why the Red Cross does not send volunteers to raise their funds. (However, in the first five weeks Kober pays at least €360 per week regardless of your performance and will cover all costs except food.)
-
-### TL;DR
-
-**It is the toughest job I’ve done until now.** However, even though the my description may not sound like it, the merit-based earnings, the focus on this and only this job during these weeks, the feeling of having my fate (commission) in my own hands, the team spirit, the people you meet, the team spirit, the joy of talking to friendly and funny people, being outside all the time, walking in the sunshine, learning so much about yourself and the team spirit - all these things made up for the hardships and made the job definitely worthwhile. And:
-![I will do it again](again.jpg)
+ The good cause gives you a comfortable feeling and you can see yourself as the good guy, but in the end it is about the commission, because that is the only money you will get for your hard work. And after all it’s work like every other - it needs to pay the bills. So the commission is the reason why you knock at door after door, while sweating from the heat reflected by the asphalt and the concrete buildings, when the rain is dropping from your hair into your eyes, while being hit by the smell of a stinky flat, while trying to drown out the barking of a dog, after being treated in a less-than-nice manner three times in a row. There is a reason why the Red Cross does not send volunteers to raise their funds. Nevertheless:
+ ![I will do it again](again.jpg)
 
 2021 confirms: He did.
+ 
+### TL;DR
+
+**It is the toughest job I’ve done until now.** However, even though the my description may not sound like it, the merit-based earnings, the focus on this and only this job during these weeks, the feeling of having my fate (commission) in my own hands, the team spirit, the people you meet, the team spirit, the joy of talking to friendly and funny people, being outside all the time, walking in the sunshine, learning so much about yourself and the team spirit - all these things made up for the hardships and made the job definitely worthwhile.

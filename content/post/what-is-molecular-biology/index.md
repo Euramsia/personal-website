@@ -48,7 +48,7 @@ Living things surround humans ever since and were thus the object of curiosity. 
 
 Only with the rise of modern science, the veil over the secret of life was lifted, bit by bit, finding by finding, in many scholarly disputes. However, the veil was found to be bigger and bigger and even bigger than it was ever imagined, and so we are still looking for answers to an ever increasing number of questions. Answers that must be found on a very fundamental level, so:
 
-> Let's go molecular!
+Let's go molecular!
 
 ### MOLECULAR BIOLOGY
 
@@ -64,7 +64,7 @@ In a philosophical magazine I once read about philosophers talking to a scientis
 
 The ancient Greeks already knew that life must be composed of subparts and tried to find them, calling them elements - basic substances. They decided to stick with four: earth, fire, water and air. With this they were wrong, but the idea is right. Life consists of "elements" and for a better understanding it can be broken down to five basic concepts. They make up everything that we call living. Basically everything we find in an organism or a cell can be assigned to one (or more) of these five concepts.
 
-![Life](/life2.png)
+![Life](/featured.png, "A conceptualization of life, by me")
 
 Life needs a **defined space** withing borders because it is a state of complex order in a hostile environment. Inside, molecules can interact fairly undisturbed and in a controlled manner, while the vast outside is chaos and cannot be controlled by a cell. These borders are cell walls and cell membranes.
 
