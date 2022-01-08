@@ -14,7 +14,7 @@ date: "2019-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Beeosensor Logo
+  caption: Beeosensor Logo, designed by Nikola Vinko
   focal_point: Smart
 
 links:
