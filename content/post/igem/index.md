@@ -58,7 +58,10 @@ I will stick with iGEM, if you don't mind.
 - You can find a short [podcast episode](https://www.aircampus-graz.at/podcasts/igem-2/) about us on AirCampus, the Podcast of the Universities of Graz.
 
 ![iGEM NAWI Graz 2019 Logo](igemlogo.png "iGEM NAWI Graz 2019 Logo, designed by Nikola Vinko and me")
-{{< figure src="igemlogo.png" caption="iGEM NAWI Graz 2019 Logo, designed by Nikola Vinko and me" numbered="true" width=50% height = auto>}}
+<!---{{< figure src="igemlogo.png" caption="iGEM NAWI Graz 2019 Logo, designed by Nikola Vinko and me" numbered="true" width=50% height = auto>}}
+
+Use custom CSS to define specific properties for custom image classes (smaller images) https://github.com/wowchemy/wowchemy-hugo-themes/issues/862
+--->
 
 
 ### The beginning
@@ -103,7 +106,7 @@ Our sole hope when we did our presentation in front of a small audience and theÂ
 
 We were first nominated for the best diagnostics project and we cheered ... and then we were announced the *winners* of the best diagnostics project and we jumped up from our seats and celebrated. After the dust settled we joked about getting nominated for other awards, including best human practices, *and we were*! We proceeded joking with tears of joy and laughter in our eyes and then we were annoucned winners! At that moment, we were not just cheering anymore, we were shouting our lungs out. Months of hard work getting honored in such a way was an incredible experience. It was almost unreal, I felt invincible for half an hour, almost god-link, it seemd like anything could become true with a snap of my fingers. We were then nominated for the best presentation and the best poster. It was incredible, although at that moment it seemed only logical. Only later I found out that we were also nominated for the Grand Prize, that is the actual "gold medal", *the* prize of iGEM. The one prize 80 overgraduate teams truly competed for.
 
-![winners](/iGEM.png)
+{{< gallery album="<igem-album>" >}}
 
 ### Lessons
 
