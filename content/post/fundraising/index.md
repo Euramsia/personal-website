@@ -81,7 +81,8 @@ Some days are bad, some days are good and it is difficult to grasp what causes t
 
 **Mindset is crucial.**
 I know this sounds a lot like rich-by-tomorrow-sigma-grindset-hustle-culture-self-help-guru platitudes, but my experience in fundraising really showed me how much of a difference the mindset can make. Your mindset has an impact on your mood and your mood and poise determine whether people are willing to donate. One of the easier beliefs that a fundraiser must hold regardless of the person opening the door:
-> Everybody wants to donate, donating to the Red Cross is the most natural thing in the world to do.
+
+> Everybody wants to donate. Donating to the Red Cross is the most natural thing in the world to do.
 
 This was a weird thing for me as a scientifically thinking person to do, but I got used to it.
 
