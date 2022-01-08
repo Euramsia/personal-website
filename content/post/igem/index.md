@@ -48,8 +48,6 @@ What is [iGEM](https://igem.org/Main_Page)?
 The ***i**nternational* ***g**enetically* ***e**ngineered* ***m**achine* student research competition 2019.
 I will stick with iGEM, if you don't mind.
 
-![iGEM NAWI Graz 2019 Logo](igemlogo.png "iGEM NAWI Graz 2019 Logo, designed by Nikola Vinko and me")
-
 ### In essence
 
 - I was member and later leader of the [student research team *iGEM NAWI Graz 2019*](https://www.tugraz.at/en/studying-and-teaching/studying-at-tu-graz/student-teams/student-competition-and-focus-teams/igem-nawi-graz/).
@@ -58,6 +56,10 @@ I will stick with iGEM, if you don't mind.
 - And most importantly: we learned *a lot* over the course of the project.
 - A summary of our scientific results is [here](https://www.felixschweigkofler.com/work/beeosensor/).
 - You can find a short [podcast episode](https://www.aircampus-graz.at/podcasts/igem-2/) about us on AirCampus, the Podcast of the Universities of Graz.
+
+![iGEM NAWI Graz 2019 Logo](igemlogo.png "iGEM NAWI Graz 2019 Logo, designed by Nikola Vinko and me")
+{{< figure src="igemlogo.png" caption=""iGEM NAWI Graz 2019 Logo, designed by Nikola Vinko and me"" numbered="true" width=50% height = auto>}}
+
 
 ### The beginning
 
