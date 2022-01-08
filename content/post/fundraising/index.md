@@ -9,7 +9,7 @@ summary: "Where I learned how important professional sales experience is"
 date: "2019-12-13T00:00:00Z"
 
 # Date updated
-lastmod: "2019-12-13T00:00:00Z"
+lastmod: "2022-01-08T21:32:00Z"
 
 # Is this an unpublished draft?
 draft: false
