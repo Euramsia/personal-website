@@ -58,7 +58,7 @@ I will stick with iGEM, if you don't mind.
 - You can find a short [podcast episode](https://www.aircampus-graz.at/podcasts/igem-2/) about us on AirCampus, the Podcast of the Universities of Graz.
 
 ![iGEM NAWI Graz 2019 Logo](igemlogo.png "iGEM NAWI Graz 2019 Logo, designed by Nikola Vinko and me")
-{{< figure src="igemlogo.png" caption=""iGEM NAWI Graz 2019 Logo, designed by Nikola Vinko and me"" numbered="true" width=50% height = auto>}}
+{{< figure src="igemlogo.png" caption="iGEM NAWI Graz 2019 Logo, designed by Nikola Vinko and me" numbered="true" width=50% height = auto>}}
 
 
 ### The beginning
