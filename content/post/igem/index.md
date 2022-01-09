@@ -25,6 +25,21 @@ image:
   placement: 2
   preview_only: false
 
+# Gallery captions
+gallery_item:
+- album: igem
+  image: preparations.jpg
+  caption: Setting up our labaratory
+- album: igem
+  image: agar.jpg
+  caption: These are the plates on which the bacteria grow
+- album: igem
+  image: lyse.jpg
+  caption: Bacteriophages in different concetrations are killing the bacteria (clear spots)
+- album: igem
+  image: centrifuge.jpg
+  caption: Harvesting the bacteriophages with an ultracentrifuge (100000 rpm)
+
 authors:
 - admin
 
