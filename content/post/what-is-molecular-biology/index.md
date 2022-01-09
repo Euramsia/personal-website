@@ -10,7 +10,7 @@ summary: "How can we even begin understand something like life itself?"
 date: "2020-03-01T00:00:00Z"
 
 # Date updated
-lastmod: "2020-01-08T00:00:00Z"
+lastmod: "2021-01-08T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
