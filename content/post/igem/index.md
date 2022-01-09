@@ -28,17 +28,23 @@ image:
 # Gallery captions
 gallery_item:
 - album: igem
-  image: preparations.jpg
+  image: 1preparations.jpg
   caption: Setting up our labaratory
 - album: igem
-  image: agar.jpg
+  image: 2agar.jpg
   caption: These are the plates on which the bacteria grow
 - album: igem
-  image: lyse.jpg
-  caption: Bacteriophages in different concetrations are killing the bacteria (clear spots)
+  image: 3inoculation.jpg
+  caption: Inoculating the agar plates or nutrient solutions with bacteria and bacteriophages (team colleague Nikola Vinko)
 - album: igem
-  image: centrifuge.jpg
-  caption: Harvesting the bacteriophages with an ultracentrifuge (100000 rpm)
+  image: 4lyse.jpg
+  caption: Testing different phage strains - bacteriophages of the strain HB10c2 in decreasing concetrations (right to left) are killing the bacteria (clear spots)
+- album: igem
+  image: 5schlonze.jpg
+  caption: Bacteria-bacteriophage-solution, concentrated from 6 litres of solution
+- album: igem
+  image: 6centrifuge.jpg
+  caption: Harvesting the bacteriophages with an ultracentrifuge (100000 rpm) to put them on the 
 
 authors:
 - admin
@@ -98,10 +104,6 @@ For me personally, leading was probably the most unusual part of the whole proje
 
 When I announced that I would be ready to undertake the task of the team leader, we were were still full of naive optimism and envisioned the prototype of the Beeosensor, fully functional, tested and ready until the end of the summer. The sky seemed clear, only a little cloudy, the roadmap was clear - for research and development as well as for the organizational part.
 
-![preparations](preparations.jpg "Setting up our labaratory")
-
-{{< gallery album="igem" >}}
-
 But over the course of this lovely summer the clouds got bigger and bigger. It was difficult to hold the team together, as we came together pretty late, were very interdisciplinary, worked in different places and not all members wanted to work full-time on our project. Problems creeped out of every corner, the tasks accumulated and the optimism started to wear off. The members who were involved more deeply replaced it by toughness and the will to finish this project under any condition and at all costs.
 
 That was necessary. Delay in delivery, lack of experience in the lab, inefficient routines and difficult experiments led to hair-pulling more than once. A insufficient desinfection method led to contaminations of our bacterial cultures for weeks, the phages (bacteria-viruses) would not replicate and when they did, we could not isolate them with the proposed method. Gene-cloning did not work for reasons not even the reaearchers in our institute understood, necessary criteria for the competition almost were not met, the financing was lacking behind the expectations and some members pulled back.
@@ -112,13 +114,17 @@ However, not everything was dire. Slowly, our project progressed. We had a stead
 
 Finishing everything for the deadline sometimes seemed like a sheer impossible task, but in the end we did it, not everything according to our plan, but we did it. And iGEM is all about students learning science and making mistakes, in order to avoid them later in their life. If that was the goal, we told ourselves that we had already won everything we could win, but then came the fulminant climax of the project.
 
-![mood](/mood.png)
+A rough timeline of the experiments in our molecular-biology-lab. It's much trickier than it looks. 
+
+{{< gallery album="igem" >}}
 
 ### The congress
 
 Our sole hope when we did our presentation in front of a small audience and the poster presentation for the judges was to win the gold medal. Sounds improper? The medals are not actually medals but just some kind of a grading system with bronze, silver and gold. Half of the teams “won” gold and so did we. The awards are the real thing in iGEM. When the winners were presented at the closing ceremony, we already knew we got gold and did not expect much more. In this competition you can find names like Harvard and MIT and the like, thus, what would some guys from Graz expect? So, when the winners and nominees in the different categories were announced, I went through the most unreal 30 minutes of my life.
 
-We were first nominated for the best diagnostics project and we cheered ... and then we were announced the *winners* of the best diagnostics project and we jumped up from our seats and celebrated. After the dust settled we joked about getting nominated for other awards, including best human practices, *and we were*! We proceeded joking with tears of joy and laughter in our eyes and then we were annoucned winners! At that moment, we were not just cheering anymore, we were shouting our lungs out. Months of hard work getting honored in such a way was an incredible experience. It was almost unreal, I felt invincible for half an hour, almost god-link, it seemd like anything could become true with a snap of my fingers. We were then nominated for the best presentation and the best poster. It was incredible, although at that moment it seemed only logical. Only later I found out that we were also nominated for the Grand Prize, that is the actual "gold medal", *the* prize of iGEM. The one prize 80 overgraduate teams truly competed for.
+We were first nominated for the best diagnostics project and we cheered ... and then we were announced the *winners* of the best diagnostics project and we jumped up from our seats and celebrated. After the dust settled we joked about getting nominated for other awards, including best human practices, *and we were*! We proceeded joking with tears of joy and laughter in our eyes and then we were annoucned winners! At that moment, we were not just cheering anymore, we were shouting our lungs out. Months of hard work getting honored in such a way was an incredible experience. It was almost unreal, I felt invincible for half an hour, almost god-link, it seemd like anything could become true with a snap of my fingers. We were then nominated for the best presentation and the best poster. It was incredible, although at that moment it seemed only logical. Only later I found out that we were also nominated for the Grand Prize, that is the actual "gold medal", *the* prize of iGEM. [Proof](https://igem.org/Results?year=2019&name=Championship&division=igem)
+
+![winners](/winners.jpg "We are the champions! [iGEM awards page](https://2019.igem.org/Competition/Results)")
 
 ### Lessons
 
