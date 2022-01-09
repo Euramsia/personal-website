@@ -1,5 +1,5 @@
 ---
-title: Beeosensor
+title: Save the bees - Beeosensor and iGEM
 summary: Proof of principle for a bacteriophage based biosensor for the detection of American Foulbrood.
 tags:
 - Research
@@ -44,4 +44,8 @@ The American Foulbrood (AFB) is the second-most dangerous bee disease after the 
 
 For the international student competition iGEM 2019 our team proved that the spores of the bacterium can be detected by using a biosensor covered with _P. larvae_ bacteriophages. To make the sensor a viable tool requires tuning the sensor to reliably detect very low concentrations. A business model for the sensor could be to give the sensor away for free and charge for the electrodes necessary for each measurement.
 
-The full documentation of the project is available in the [wiki-system of iGEM](https://2019.igem.org/Team:NAWI_Graz).
+**Project.** The [full documentation of the project](https://2019.igem.org/Team:NAWI_Graz) is available in the wiki-system of iGEM.
+
+**Thesis.** Linked to the iGEM-project is my [Bachelor thesis about the receptor binding protein](https://www.felixschweigkofler.com/publication/binding-protein-phage/) of the bacteriophage that we used for our biosensor.
+
+**Blog.** Wanna know how it is to participate in a student research competition of the caliber of iGEM? Red [my post](https://www.felixschweigkofler.com/post/igem/) about the experience and what I learned as team leader of a research project.

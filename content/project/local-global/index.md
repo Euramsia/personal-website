@@ -36,6 +36,6 @@ url_video: ""
 
 slides: ''
 ---
-Local-global perception bias is a psychological paradigm that concerns the perception of local and global visual information.
+Local-global perception bias is a psychological paradigm that concerns the perception of local and global visual information. As the major internship project for my master I am examining the relations between different tasks used and probe deeper into the concept to understand how valid it is in the current form.
 
-I preregistered the project on the Open Science Framework. All code, all data and all other resources to understand and replicate my research are available there.
+I preregistered [the project](https://osf.io/n8sge/) on the Open Science Framework. All code, all data and all other resources to understand and replicate my research will be available there, once I finished the project.

@@ -1,18 +1,18 @@
 ---
 title: "Student research competition - iGEM 2019"
-subtitle: "Where my team and Ime worked on saving the bees and learned how to do research"
+subtitle: "Where my team and I worked on saving the bees and learned how to do research"
 
 # Summary for listings and search engines
-summary: "Where my team and me worked on saving the bees and learned how to do research"
+summary: "Where my team and I worked on saving the bees and learned how to do research"
 
 # Link this post with a project
 projects: [beeosensor]
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2020-02-02T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2020-01-08T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -124,7 +124,7 @@ Our sole hope when we did our presentation in front of a small audience and theÂ
 
 We were first nominated for the best diagnostics project and we cheered ... and then we were announced the *winners* of the best diagnostics project and we jumped up from our seats and celebrated. After the dust settled we joked about getting nominated for other awards, including best human practices, *and we were*! We proceeded joking with tears of joy and laughter in our eyes and then we were annoucned winners! At that moment, we were not just cheering anymore, we were shouting our lungs out. Months of hard work getting honored in such a way was an incredible experience. It was almost unreal, I felt invincible for half an hour, almost god-link, it seemd like anything could become true with a snap of my fingers. We were then nominated for the best presentation and the best poster. It was incredible, although at that moment it seemed only logical. Only later I found out that we were also nominated for the Grand Prize, that is the actual "gold medal", *the* prize of iGEM. [Proof](https://igem.org/Results?year=2019&name=Championship&division=igem)
 
-![winners](/winners.jpg "We are the champions!")
+![winners](winners.jpg "We are the champions!")
 
 ### Lessons
 

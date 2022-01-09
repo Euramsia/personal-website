@@ -7,10 +7,10 @@ summary: "How can we even begin understand something like life itself?"
 
 
 # Date published
-date: "2019-12-13T00:00:00Z"
+date: "2020-03-01T00:00:00Z"
 
 # Date updated
-lastmod: "2019-12-13T00:00:00Z"
+lastmod: "2020-01-08T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -25,7 +25,7 @@ image:
 
 authors:
 - admin
-
+ 
 tags:
 - Biology
 - Life
