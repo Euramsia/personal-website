@@ -83,6 +83,10 @@ For me personally, leading was probably the most unusual part of the whole proje
 
 When I announced that I would be ready to undertake the task of the team leader, we were were still full of naive optimism and envisioned the prototype of the Beeosensor, fully functional, tested and ready until the end of the summer. The sky seemed clear, only a little cloudy, the roadmap was clear - for research and development as well as for the organizational part.
 
+![preparations](preparations.jpg "Setting up our labaratory")
+
+{{< gallery album="igem" >}}
+
 But over the course of this lovely summer the clouds got bigger and bigger. It was difficult to hold the team together, as we came together pretty late, were very interdisciplinary, worked in different places and not all members wanted to work full-time on our project. Problems creeped out of every corner, the tasks accumulated and the optimism started to wear off. The members who were involved more deeply replaced it by toughness and the will to finish this project under any condition and at all costs.
 
 That was necessary. Delay in delivery, lack of experience in the lab, inefficient routines and difficult experiments led to hair-pulling more than once. A insufficient desinfection method led to contaminations of our bacterial cultures for weeks, the phages (bacteria-viruses) would not replicate and when they did, we could not isolate them with the proposed method. Gene-cloning did not work for reasons not even the reaearchers in our institute understood, necessary criteria for the competition almost were not met, the financing was lacking behind the expectations and some members pulled back.
