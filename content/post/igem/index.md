@@ -114,7 +114,7 @@ However, not everything was dire. Slowly, our project progressed. We had a stead
 
 Finishing everything for the deadline sometimes seemed like a sheer impossible task, but in the end we did it, not everything according to our plan, but we did it. And iGEM is all about students learning science and making mistakes, in order to avoid them later in their life. If that was the goal, we told ourselves that we had already won everything we could win, but then came the fulminant climax of the project.
 
-A rough timeline of the experiments in our molecular-biology-lab. It's much trickier than it looks. 
+**Gallery.** To get a feeling for what we did, I assembled a rough timeline of the steps in the molecular-biology-lab (we also had a chemestry lab for the beeosensor-measurements). Needless to say, it's much more complicated than it looks.
 
 {{< gallery album="igem" >}}
 
@@ -124,7 +124,7 @@ Our sole hope when we did our presentation in front of a small audience and theÂ
 
 We were first nominated for the best diagnostics project and we cheered ... and then we were announced the *winners* of the best diagnostics project and we jumped up from our seats and celebrated. After the dust settled we joked about getting nominated for other awards, including best human practices, *and we were*! We proceeded joking with tears of joy and laughter in our eyes and then we were annoucned winners! At that moment, we were not just cheering anymore, we were shouting our lungs out. Months of hard work getting honored in such a way was an incredible experience. It was almost unreal, I felt invincible for half an hour, almost god-link, it seemd like anything could become true with a snap of my fingers. We were then nominated for the best presentation and the best poster. It was incredible, although at that moment it seemed only logical. Only later I found out that we were also nominated for the Grand Prize, that is the actual "gold medal", *the* prize of iGEM. [Proof](https://igem.org/Results?year=2019&name=Championship&division=igem)
 
-![winners](/winners.jpg "We are the champions! [iGEM awards page](https://2019.igem.org/Competition/Results)")
+![winners](/winners.jpg "We are the champions!")
 
 ### Lessons
 
