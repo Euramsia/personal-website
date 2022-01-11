@@ -38,11 +38,11 @@ It is a deep conviction of mine that we as academia have a responsibility for hu
 
 Note: This does not affect the scientific method itself, but a reform of the social enterprise of doing science. The scientific method is developing models to abstract reality and testing these models on reality. It is essentially what every child does when it tries to understand the world, but we do it in a highly stuctured, rigoros and accumulating way.
 
-Open science as a reform movement on the other hand is about how exactly we implement research in our social structure, such as:
+Open science as a reform movement on the other hand is about how exactly we implement research in our academic structure, such as:
 - Who pays whom for what?
 - Who gets rewarded for what? <font color="grey">(the publish or perish culture produces mediocre research)</font>
 - How do we disseminate the knowledge? <font color="grey">(scientific publishing hasn't really discovered the internet yet)</font>
-- How do we reach scientific consensus?
+- How do we reach scientific consensus? <font color="grey">(are profit-oriented journals without regulation and oversight really a good idea in this crucial position)</font>
 - Who can control what is researched?
 - What is considered best practices? <font color="grey">(publishing raw data is not optional!)</font>
 - How we can criticise research? <font color="grey">(no comment section under papers where researchers can discuss, are you serious?)</font>
@@ -51,7 +51,7 @@ These topics have nothing to do with the scientific method itself, but they are 
 
 **Doing my part.**
 
-Utrecht University's **Road to Open Science** podcast ([Twitter](https://twitter.com/R2OSpodcast), [Spotify](https://open.spotify.com/show/6GvtmgOjs4lc76Aiz9RO46), [Soundcloud](https://soundcloud.com/utrechtyoungacademy)) talks with Open Science enthusiasts who contribute to the movement. It explores the many topics in academia that are touched by OS. My favourite episode is the ["Faces of Open Science"](https://open.spotify.com/episode/5s435lLwFcIPMjv6IxZugB), where we had two philosophers of science who found "archetypes" within the OS movement. Doing interview was a blast and really helped me to structure some vage understanding of science and scientists and what different movations and values there are.
+I worked for half a year as student assistant on Utrecht University's **Road to Open Science** podcast ([Twitter](https://twitter.com/R2OSpodcast), [Spotify](https://open.spotify.com/show/6GvtmgOjs4lc76Aiz9RO46), [Soundcloud](https://soundcloud.com/utrechtyoungacademy)) talks with Open Science enthusiasts who contribute to the movement. It explores the many topics in academia that are touched by OS. My favourite episode is the ["Faces of Open Science"](https://open.spotify.com/episode/5s435lLwFcIPMjv6IxZugB), where we had two philosophers of science who found "archetypes" within the OS movement. Doing interview was a blast and really helped me to structure some vage understanding of science and scientists and what different movations and values there are.
 
 I am a co-founder of **SIOS**, the [Student Initiative for Open Science](https://openscience-utrecht.com/sios-utrecht-1/). We are supported by the Open Science Community Utrecht (OSCU) and are developing a framework of how to best bring Open Science to students. Our ideas include brief weekly [talks](https://www.youtube.com/watch?v=_AHprT0mosw) about OS-topics and lobbying for Open Science in education.
 
