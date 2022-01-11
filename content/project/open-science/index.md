@@ -47,7 +47,7 @@ Open science as a reform movement on the other hand is about how exactly we impl
 - What is considered best practices? <font color="grey">(publishing raw data is not optional!)</font>
 - How we can criticise research? <font color="grey">(no comment section under papers where researchers can discuss, are you serious?)</font>
 
-These topics have nothing to do with the scientific method itself, but only with the academic system.
+These topics have nothing to do with the scientific method itself, but they are at the core of what academia is and does. They decide how good our science can be. 
 
 **Doing my part.**
 
