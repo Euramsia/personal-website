@@ -1,5 +1,5 @@
 ---
-title: Open Science
+title: Open Science activism
 summary: Reforming science to be better - more efficient, effective, and transparent. It is high time.
 tags:
 - Science
