@@ -17,7 +17,11 @@ external_link: ""
 
 links:
 - name: SIOS
-  url: https://osf.io/n8sge/
+  url: https://openscience-utrecht.com/sios-utrecht-1/
+- name: OSCU
+  url: https://openscience-utrecht.com
+- name: podcast
+  url: https://open.spotify.com/show/6GvtmgOjs4lc76Aiz9RO46
 url_code: ""
 url_pdf: ""
 url_slides: ""
