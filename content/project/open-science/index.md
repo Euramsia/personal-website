@@ -46,6 +46,7 @@ Open science is about how exactly we implement research in our social structure,
 - Who can control what is researched?
 - What is considered best practices? <font color="grey">(publishing raw data is not optional!)</font>
 - How we can criticise research? <font color="grey">(no comment section under papers where researchers can discuss, are you serious?)</font>
+
 These topics have nothing to do with the scientific method itself, but only with the academic system.
 
 **Doing my part.**
