@@ -39,12 +39,13 @@ It is a deep conviction of mine that we as academia have a responsibility for hu
 Note: This does not affect the scientific method itself, but a reform of the social enterprise of doing science. The scientific method is developing models to abstract reality and testing these models on reality. It is essentially what every child does when it tries to understand the world, but we do it in a highly stuctured, rigoros and accumulating way.
 
 Open science is about how exactly we implement research in our social structure, such as:
-- Who pays whom for what
-- Who gets rewarded for what <font color="grey">(the publish or perish culture produces mediocre research)</font>
-- How do we disseminate the knowledge <font color="grey">(scientific publishing hasn't really discovered the internet yet)</font>
-- How do we reach scientific consensus, who can control what is researched
-- What is considered best practices <font color="grey">(publishing raw data is not optional!)</font>
-- How we can criticise research <font color="grey">(no comment section under papers where researchers can discuss, are you serious?)</font>
+- Who pays whom for what?
+- Who gets rewarded for what? <font color="grey">(the publish or perish culture produces mediocre research)</font>
+- How do we disseminate the knowledge? <font color="grey">(scientific publishing hasn't really discovered the internet yet)</font>
+- How do we reach scientific consensus?
+- Who can control what is researched?
+- What is considered best practices? <font color="grey">(publishing raw data is not optional!)</font>
+- How we can criticise research? <font color="grey">(no comment section under papers where researchers can discuss, are you serious?)</font>
 These topics have nothing to do with the scientific method itself, but only with the academic system.
 
 **Doing my part.**
