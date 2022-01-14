@@ -69,6 +69,6 @@ highlight_name: true
 
 Felix Schweigkofler is a student of Neuroscience and Cognition at Utrecht University, with a background in molecular biology. His interestes are scattered across biology, psychology, philosophy, politics and complex systems in general.
 
-His research included molecular as well as pyschological topics. Currently he is finishing his Master's studies and is part of a student initiative to promote Open Science.
+His research includes molecular as well as pyschological topics. Currently he is finishing his Master's studies and is active in promoting Open Science.
 
 {{< icon name="download" pack="fas" >}} Open my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
