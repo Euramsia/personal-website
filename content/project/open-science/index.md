@@ -45,8 +45,8 @@ Note: This does not affect the scientific method itself, but a reform of the soc
 Open science as a reform movement on the other hand is about how exactly we implement research in our academic structure, such as:
 - Who pays whom for what?
 - Who gets rewarded for what? <font color="grey">(the publish or perish culture produces mediocre research)</font>
-- How do we disseminate the knowledge? <font color="grey">(scientific publishing hasn't really discovered the internet yet)</font>
-- How do we reach scientific consensus? <font color="grey">(are profit-oriented journals without regulation and oversight really a good idea in this crucial position)</font>
+- How do we disseminate the knowledge? <font color="grey">(scientific publishing hasn't discovered the possibilities of the internet yet, pdf-papers are basically just paper-pages ripped from journal and slapped into the internet)</font>
+- How do we reach scientific consensus? <font color="grey">(are profit-oriented companies (journals) without regulation and oversight really a good idea in this crucial position)</font>
 - Who can control what is researched?
 - What is considered best practices? <font color="grey">(publishing raw data is not optional!)</font>
 - How we can criticise research? <font color="grey">(no comment section under papers where researchers can discuss, are you serious?)</font>
