@@ -40,9 +40,9 @@ slides: ''
 
 It is a deep conviction of mine that we as academia have a responsibility for humanity that demands from us to be effective in our research and transparent in our communication. This simplified demand becomes all-ecompassing, because it concerns the very basis of how we do research.
 
-Note: This does not affect the scientific method itself, but a reform of the social enterprise of doing science. The scientific method is developing models to abstract reality and testing these models on reality. It is essentially what every child does when it tries to understand the world, but we do it in a highly stuctured, rigoros and accumulating way.
+**Note**: This does not affect the scientific method itself, but a reform of the social environment of doing science. Open *academia* is a better name, I think, but sadly I didn't get to choose.
 
-Open science as a reform movement on the other hand is about how exactly we implement research in our academic structure, such as:
+<font color="006666">The scientific method</font> on one hand is developing models to abstract reality and testing these models on reality. It is essentially what every child does when it tries to understand the world, but we do it in a highly stuctured, rigoros and accumulating way. Open science as a reform movement on the other hand is about how exactly we implement research in our academic structure, such as:
 - Who pays whom for what?
 - Who gets rewarded for what? <font color="grey">(the publish or perish culture produces mediocre research)</font>
 - How do we disseminate the knowledge? <font color="grey">(scientific publishing hasn't discovered the possibilities of the internet yet, pdf-papers are basically just paper-pages ripped from journal and slapped into the internet)</font>
