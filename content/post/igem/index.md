@@ -44,7 +44,7 @@ gallery_item:
   caption: Bacteria-bacteriophage-solution, concentrated from 6 litres of solution
 - album: igem
   image: 6centrifuge.jpg
-  caption: Harvesting the bacteriophages with an ultracentrifuge (100000 rpm) to put them on the 
+  caption: Harvesting the bacteriophages with an ultracentrifuge (100000 rpm) to put them on the Biosensor
 
 authors:
 - admin
