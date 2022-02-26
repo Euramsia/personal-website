@@ -20,7 +20,7 @@ draft: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: "The stress wiped away by success"
+  caption: "Success is sweet. Vera, Nikola, Lucija, Alexander, me"
   focal_point: ""
   placement: 2
   preview_only: false
