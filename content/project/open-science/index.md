@@ -1,6 +1,6 @@
 ---
-title: Open Science activism
-summary: Reforming science to be better - more efficient, effective, and transparent. It is high time.
+title: Open Science
+summary: Reforming science to be the best version of itself ... more efficient, effective, and transparent. It is high time.
 tags:
 - Science
 - Politics

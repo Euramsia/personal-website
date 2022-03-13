@@ -1,6 +1,6 @@
 ---
 title: Local-global perception bias 
-summary: Understanding perception bias by correlating similar but not identical local-global hierarchical shape tasks (Navon figures)
+summary: A thorough conceptual-empirical analysis of three tasks, disproving that perception bias is a unitary construct.
 tags:
 - Research
 - Student
