@@ -23,12 +23,12 @@ publication_types: ["7"]
 publication: "Self-published"
 publication_short: "Self-published"
 
-abstract: Climate Change is surely one of the bigges, if not the biggest problem that we will have to deal with in future. A lot depends on the farmers as they are ultimantely those who implement the best solutions and carry the highest risk. The future depends on the decisions they make today. They give agriculture and thus the land itself a face. But they should not be left in the rain alone, rather they should be adviced by institutions such as the Beratungsring, the Laimburg, and the Südtiroler Bauernbund. These institutions will increasingly be confronted with climate-related problems, so they should prepare. If we understand to steer agricutlure, we will be able to manage the changes without too much damage.
+abstract: Climate Change is surely the biggest problem for the agriculture of the future. It will inevitably affect South Tyrol in several ways, ranging from increased temperature over shifted vegetation periods to reduced water supply. The specific problems vary for each sector and by region, which is why I have sought to make a brief but comprehensive overview of the effects climate change will have in South Tyrol and each of the relevant agricultural sectors. A lot of weight rests on the shoulders of farmers, as they are ultimantely those who implement the best solutions to the problems of the future and carry the highest economic risk as well. The future of food security and also to an extent the ecological effects of climate change depend on the decisions farmers and politics make today and tomorrow, and for that we need to understand the challenges ahead of us (Abstract written post submission).
 
 # Summary. An optional shortened abstract.
 summary: South Tyrol and its agriculture will be faced with quite drastic changes in it's climate and needs to prepare well to be ready.
 
-tags: [Agriculture, High school, Award]
+tags: [Agriculture, Climate change, High school, Award]
 
 # Display this page in the Featured widget?
 featured: true
@@ -62,4 +62,6 @@ image:
 # slides: example
 ---
 
-This is the thesis I wrote in my last year at the high school with a specialization in agriculture. I summarized the effects of the climate change in South Tyrol with regard to its impact on the local agriculture and how the different sectors can react to it. For this thesis I was won the Seppel-Lamprecht-Stipend for outstanding services to the agriculture of South Tyrol for pupils of the students of the South Tyrolean [High school for Agriculture](https://ofl-auer.it/).
+This is my high-school thesis (high school with specialization in agriculture), in which I summarized the effects of climate change in South Tyrol with regard to its impact on the local agriculture and how the different acricultural sectors can react to it.
+
+For this thesis I was awarded the *Seppel-Lamprecht-Stipend for outstanding services to the agriculture of South Tyrol* for pupils of the students of the South Tyrolean [High school for Agriculture](https://ofl-auer.it/).
