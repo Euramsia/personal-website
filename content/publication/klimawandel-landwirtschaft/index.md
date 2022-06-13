@@ -20,8 +20,8 @@ publishDate: "2021-01-01T00:00:00Z"
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Self-published"
-publication_short: "Self-published"
+publication: "Self-published, caution: school project"
+publication_short: "Self-published, caution: school project"
 
 abstract: Climate Change is surely the biggest problem for the agriculture of the future. It will inevitably affect South Tyrol in several ways, ranging from increased temperature over shifted vegetation periods to reduced water supply. The specific problems vary for each sector and by region, which is why I have sought to make a brief but comprehensive overview of the effects climate change will have in South Tyrol and each of the relevant agricultural sectors. A lot of weight rests on the shoulders of farmers, as they are ultimantely those who implement the best solutions to the problems of the future and carry the highest economic risk as well. The future of food security and also to an extent the ecological effects of climate change depend on the decisions farmers and politics make today and tomorrow, and for that we need to understand the challenges ahead of us (Abstract written post submission).
 
