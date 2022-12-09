@@ -14,12 +14,12 @@ organizations:
   url: https://www.uu.nl/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My main interests are in computational biology, open science and understanding life
+bio: My main research interest is understanding life better, biologically and psychologically 
 
 # Interests to show in About widget
 interests:
-- (Artificial) Intelligence
-- Computational Biology
+- Biology; molecular and computational
+- Psychology, cognition, intelligence
 - Open Science
 
 # Education to show in About widget
@@ -67,7 +67,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a student of Neuroscience and Cognition at Utrecht University, with a background in molecular biology. My interestes cover biology, psychology, politics and complex systems in general.
+I am a student of Neuroscience and Cognition at Utrecht University, with a background in molecular biology. 
 
 My research up to now was in molecular biology and experimental psychology. Currently I am finishing my Master's studies and am active in promoting Open Science.
 
