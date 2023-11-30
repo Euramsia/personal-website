@@ -6,15 +6,15 @@ title: Felix Schweigkofler
 superuser: true
 
 # Role/position/tagline
-role: Student Neuroscience and Cognition
+role: Research Assistant, MSc
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Utrecht University
-  url: https://www.uu.nl/en
+- name: Experimental Psychology, Utrecht University
+  url: https://www.uu.nl/en/organisation/experimental-psychology
 
 # Short bio (displayed in user profile at end of posts)
-bio: My main research interest is understanding life better, biologically and psychologically 
+bio: My main research interest is life, biologically and psychologically 
 
 # Interests to show in About widget
 interests:
@@ -25,6 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: MSc in Neuroscience and Cognition
+    institution: Utrecht University
+    year: 2023
   - course: BSc in Molecular Biology
     institution: Graz University of Technology
     year: 2020
@@ -67,8 +70,8 @@ email: ""
 highlight_name: true
 ---
 
-I am a student of Neuroscience and Cognition at Utrecht University, with a background in molecular biology. 
+I am currently researching local global perception bias, but my interests cover a wide range of topics and I am searching for a field where I can combine as many as possible of them. My academic path so far has covered nearly everything between chemistry and psychology at least to some degree, while my work was focused on microbiological and genetic research on one hand and cognitive psychology on the other hand. 
 
-My research up to now was in molecular biology and experimental psychology. Currently I am finishing my Master's studies and am active in promoting Open Science.
+Furthermore I am very interested in promoting Open Science, when I find time for it, in particular Open Data, alternative publishing models, and the recognition and rewards aspect of academia.
 
 {{< icon name="download" pack="fas" >}} Open my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
