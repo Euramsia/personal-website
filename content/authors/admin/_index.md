@@ -14,12 +14,13 @@ organizations:
   url: https://www.uu.nl/en/organisation/experimental-psychology
 
 # Short bio (displayed in user profile at end of posts)
-bio: My main research interest is life, biologically and psychologically 
+bio: I would like to know how living works 
 
 # Interests to show in About widget
 interests:
-- Biology; molecular and computational
-- Psychology, cognition, intelligence
+- Molecular biology
+- Cognition and thinking
+- Computational research approaches
 - Open Science
 
 # Education to show in About widget
