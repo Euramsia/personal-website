@@ -54,7 +54,7 @@ I tried to condense fundamental aspects of molecular biology into five main conc
 
 The ancient Greeks and Chinese already knew that life must be composed of subparts. With this they were right. Then they tried to identify these subparts and identified elements such as earth, fire, and metal. With this they were wrong, but the approach is still relevant. Life does consist of "elements" and for a study of life, we need to work with general concepts, so I will present my own five fundamental "elements" of life:
 
-![Life](/life.png, "A conceptualization of life, by Me")
+![Life](life.png, "A conceptualization of life, by Me")
 
 Life needs a **defined space** withing borders because it is a state of complex order in a hostile environment. Inside, molecules can interact fairly undisturbed and in a controlled manner, while the vast outside is chaos and cannot be controlled by a cell. These borders are cell walls and cell membranes.
 
