@@ -74,9 +74,9 @@ highlight_name: true
 
 I am a research assistant at the deparment of Experimental Psychology at Utrecht University, exploring the poorly understood concept of visual local-global perception bias. My educational background is **Molecular Biology (BSc)** and **Neuroscience and Cognition (MSc)**, with a strong interest in quantitative and computational approaches.
 
-During my Bachelor's I gained experience in wetlab microbiology and genetics and after my current brief detour into statistical and modelling-based cognition research, I aim to return to biologically-focused research and combine as many interests as possible, especially **human genetics**, but also neurobiology, ageing, and cognition.
+During my Bachelor's I gained experience in wetlab microbiology and genetics and after my current brief detour into statistical and modelling-based cognition research, I will return to biologically-focused research and combine as many interests as possible, especially **human genetics**, but also neurobiology, ageing, and cognition.
 
-For the next step of my academic career, I am therefore **searching for a PhD position** in the field of genetics. 
+For the next step of my academic career, I am therefore **searching for a PhD position** in genetics with a focus on bioinformatics and complex systems.
 
 Furthermore, I am very interested in promoting **Open Science**, which I think is key for a positive and collaborative relationship within academia and between academia and society.
 

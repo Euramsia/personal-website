@@ -36,35 +36,25 @@ categories:
 - Personal
 ---
 
-Maybe you have asked yourself this question by now. Maybe you already know it, but would like to hear another opinion. In both cases you will find what you are looking for in this post. I will try to sum up the essence of molecular biology in an easy yet comprehensive manner. 
+What is molecular biology? The study of living organisms on a molecular level. Joke aside, in this post I will try to explain in relatively simple terms what MolBio is about in its core. 
 
 > The short answer is: **"Molecular biology is about explaining life"**
 
-"Life" is often meant as the human experience from birth to death, but that is not what I am going to talk about. With "life" I mean the way how *living* works biologically. That is a big chunk, but I promise I will stick to the basics and keep it as clear as possible. I even drew a picture to make it more memorable! So enjoy the short trip through molecular biology.
+Not per se the human experience between conception and death, but rather how *living* actually works on a fundamental biological, chemical, and also physical level. That is a lot, but I'll keep it reasonably simple and clear.
 
-### EXCURSION TROUGH THE HISTORY OF BIOLOGY
+### A BRIEF HISTORY OF BIOLOGY
 
-Living things surround humans ever since and were thus the object of curiosity. Biology has some pretty obvious domains, like plants and animals and how they behave and what grows where and what doesn't and which herb cures which diseases. Thousands of years of observations, secretes from druid mouth to druid ear and farmer's wisdom. But all this old knowledge hit against a wall, when it came to _understanding_ the phenomena that were observed. Even worse where the attempts to describe life philosophically or religiously. Many scholars from ancient times tried their best to explain why things happen by mixing "living things" - nowadays biology and psychology - with "dead things" - nowadays chemistry and physics - and gluing them together with philosophy and mathematics and a good portion of creativity.
+Living things surround humans ever since and were thus the object of curiosity. Biology has some pretty obvious domains, like plants and animals and how they behave and what grows where and what doesn't and which herb cures which diseases. Thousands of years of observations, secretes from druid mouth to druid ear and farmer's wisdom. But all this old knowledge hit against a wall, when it came to _understanding_ the phenomena that were observed. Even worse where the attempts to describe life philosophically or religiously. Many scholars from ancient times tried their best to explain why things happen by mixing psychological, biological, and chemical/physical phenomena, with a good dose of philosophy and creativity.
 
-Only with the rise of modern science, the veil over the secret of life was lifted, bit by bit, finding by finding, in many scholarly disputes. However, the veil was found to be bigger and bigger and even bigger than it was ever imagined, and so we are still looking for answers to an ever increasing number of questions. Answers that must be found on a very fundamental level, so:
+Only with the rise of modern science, the veil over the secret of life was lifted, bit by bit, finding by finding, in many scholarly disputes. However, the veil was found to be bigger and bigger and even bigger than it was ever imagined, and so we are still looking for answers to an ever increasing number of questions. Answers that must be found on a very fundamental level, so let's go molecular!
 
-Let's go molecular!
+I tried to condense fundamental aspects of molecular biology into five main concepts. Inaccurate, sure, but hopefully helpful. I even drew a picture in paint for the visual learners!
 
-### MOLECULAR BIOLOGY
+### FIVE ELEMENTS OF LIFE
 
-Biology consists of many fields and approaches, but when I talk about molecular biology here I mean the basis of life beyond what is visible with the bare eye. I will spare you further explanations on the concrete definition of different subsections and want to focus on the foundations of biology, which was the content of my study. So, when I talk about molecular biology here, I mean "biology on a molecular level".
+The ancient Greeks and Chinese already knew that life must be composed of subparts. With this they were right. Then they tried to identify these subparts and identified elements such as earth, fire, and metal. With this they were wrong, but the approach is still relevant. Life does consist of "elements" and for a study of life, we need to work with general concepts, so I will present my own five fundamental "elements" of life:
 
-> Because life is just very complex chemistry.
-
-For real. Living beings are made up of molecules and nothing more, just like everything else. Only chemistry and physics can explain what happens and chemistry and physics alone are enough.
-
-In a philosophical magazine I once read about philosophers talking to a scientist about biology and being surprised by the fact, that there is nothing else to life than molecules. And it is true, it is just extremely complicated chemistry, as far as science can tell. No hidden force, no *vis vitae*, no alchemical elixir. That is somewhat disillusioning, but on the other hand it brings us closer to a real understanding of life than we have ever been.
-
-### FIVE CONCEPTS FOR LIFE
-
-The ancient Greeks already knew that life must be composed of subparts and tried to find them, calling them elements - basic substances. They decided to stick with four: earth, fire, water and air. With this they were wrong, but the idea is right. Life consists of "elements" and for a better understanding it can be broken down to five basic concepts. They make up everything that we call living. Basically everything we find in an organism or a cell can be assigned to one (or more) of these five concepts.
-
-![Life](/featured.png, "A conceptualization of life, by me")
+![Life](/featured.png, "A conceptualization of life, by Me")
 
 Life needs a **defined space** withing borders because it is a state of complex order in a hostile environment. Inside, molecules can interact fairly undisturbed and in a controlled manner, while the vast outside is chaos and cannot be controlled by a cell. These borders are cell walls and cell membranes.
 
@@ -75,14 +65,6 @@ Life needs **information** as a blueprint for the molecules that must be built. 
 Life needs **energy**. Who doesn't? Without energy, nothing can be done. Simply maintaining order already needs constant effort, otherwise things tend to become chaotic. Energy is either prduced trough photosynthesis or by "eating" energy-rich molecules like sugar.
 
 Life needs **work** - or in other words: something, that performs necessary tasks. Even though chemical reactions happen all the time, you need to put in some extra effort to get the reactions you really want and something needs to control this. In the case of life the "workers" are special molecules called enzymes.
-
-> These five can be seen as the core elements of life. This is the secret of life in a simplified form. As you can see, in the end it all comes down to molecules and thus chemistry:
-
-- The space is defined by borders made out of molecules
-- The building blocks of course are molecules too
-- Information is stored in the DNA, which is itself an incredibly large molecule
-- Energy is derived from molecules and stored in other molecules
-- Even the work is done by molecules, who perfor specific tasks
 
 With the models developed over the last two centuries we are able to explain life with an astonishing complexity. I will explain them a bit further in the next part
 
@@ -102,11 +84,8 @@ Energy is key, without it nothing would work, no car moves, the internet is dead
 
 ### Final thoughts
 
-What should we do with that knowledge?
-I have some ideas, but this is neither the right time nor the right place for them.
+Ok so what should we do with this knowledge?
 
-> Now it is about you.
+Molecular biology, like all science, does not happen in a disconnected bubble, but is integrated in our societies. Our values, our ideas, our rules determine the progress and focus of science and are in turn changed by scientific findings. We need to think about the future of science collectively and how we want to use it, because knowledge and progress will not be halted, but must be used smartly. And you are a part of this.
 
-Molecular biology does not happen in a disconnected bubble, but is integrated in our societies. Our values, our ideas, our rules. We need to think about the future of life sciences collectively and we will need to shape it. Because if we learned one thing from history, then that the scientific and technological progress of humanity cannot be halted globally over a long period of time. The change is real, right here, right now, and we need to direct the mighty flow of progress to the right path.
-
-> Inform yourself, inform others, build yourself a philosophy and envision a future. We have the capabilities to make it real.
+> Inform yourself, inform others, build yourself a philosophy and envision a future for *life*. We now have the capabilities to make it real.
