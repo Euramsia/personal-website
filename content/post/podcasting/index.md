@@ -1,9 +1,9 @@
 ---
 title: "Fulfilling a childhood dream"
-subtitle: "After many years I finally landed a spot on a research ship"
+subtitle: "After many years I finally went to sea on a research ship"
 
 # Summary for listings and search engines
-summary: "Where I learned to podcast and met Open Science enthusiasts"
+summary: "After many years I finally went to sea on a research ship"
 
 # Link this post with a project
 projects: [Open Science]
