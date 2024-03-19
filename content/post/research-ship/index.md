@@ -15,7 +15,7 @@ date: "2024-03-18T00:00:00Z"
 lastmod: "2024-03-19T00:00:00Z"
 
 # Is this an unpublished draft?
-draft: true
+draft: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -23,7 +23,7 @@ image:
   caption: "The stress wiped away by success"
   focal_point: ""
   placement: 2
-  preview_only: false
+  preview_only: true
 
 authors:
 - admin
