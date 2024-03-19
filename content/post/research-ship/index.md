@@ -38,6 +38,8 @@ categories:
 - Personal
 ---
 
+![Me](me.png "Me, on a ship, on the Atlantic")
+
 Ever since I read about the research vessel *Polarstern* in the children's magazine Geolino I wanted to to research on such a ship. I still remember how 12 year old me was sitting in on the sunny floor and imagined myself into the freezing arctic on an important research mission.
 
 But I was little and it was just a dream, unachieveable, nearly forgotten over the years. That is, until one day towards the end of my Bachelor's, I came to talk about childhood dreams with a friend of mine, who had a seafaring friend. Meeting her I learned that it was indeed possible for a guy like me without a focus on marine research to find his way onto a research ship, and she gave me advice how to do it.
@@ -59,3 +61,5 @@ An assistant had cancelled and they needed a helping hand within mere weeks. Too
 I had feared that my expectations for the journey might have grown too much alongside the single-minded effort to overcome the barriers, but luckily they hadn't. The cruise gave me the experience I hoped it would. We were putting out measuring devices and monitoring the ship's own ongoing measurements of the seafloor and it all felt properly exciting and significant. The topic was far off my expertise, but I learned quickly about the intent behind our research and could get interested in the glimpses of preliminary results we were seeing. To do all that on the ocean is a very peculiar feeling. Surrounded by just water, confined to a ship, it feels as if the world has become very small. It is just the ship now, and just these people. Everything else becomes a vague possibily in the distance. The day is dominated by the routine of the ship. The outside world is far. The usual worries of life diminish. As if the ship was in its own dimension.
 
 I want to believe that even this last part is something my 12-year-old self intuitively felt, when he dreamed himself on this ship.
+
+![Ocean](ocean.png "An attemtp to convey the feeling of the ocean-dimension")
