@@ -38,7 +38,7 @@ categories:
 - Personal
 ---
 
-![Me](me.png "Me, on a ship, on the Atlantic")
+![Me](me.jpg "Me, on a ship, on the Atlantic")
 
 Ever since I read about the research vessel *Polarstern* in the children's magazine Geolino I wanted to to research on such a ship. I still remember how 12 year old me was sitting in on the sunny floor and imagined myself into the freezing arctic on an important research mission.
 
@@ -62,4 +62,4 @@ I had feared that my expectations for the journey might have grown too much alon
 
 I want to believe that even this last part is something my 12-year-old self intuitively felt, when he dreamed himself on this ship.
 
-![Ocean](ocean.png "An attemtp to convey the feeling of the ocean-dimension")
+![Ocean](ocean.jpg "An attemtp to convey the feeling of the ocean-dimension")
