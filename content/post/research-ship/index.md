@@ -20,7 +20,7 @@ draft: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: "The stress wiped away by success"
+  caption: "The ship leaving port"
   focal_point: ""
   placement: 2
   preview_only: true
@@ -38,7 +38,7 @@ categories:
 - Personal
 ---
 
-![Me](me.jpg "Me, on a ship, on the Atlantic")
+![Me](me.jpg "Me, on a research ship, on the Atlantic")
 
 Ever since I read about the research vessel *Polarstern* in the children's magazine Geolino I wanted to to research on such a ship. I still remember how 12 year old me was sitting in on the sunny floor and imagined myself into the freezing arctic on an important research mission.
 
