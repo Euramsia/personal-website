@@ -49,7 +49,4 @@ But boy had I underestimated how much work cutting and editing the main video wo
 
 With feedback from friends and family I tuned and polished, until I felt like additional effort wasn't justified anymore, especially given the limits of the source material. Cutting and editing is powerful, but there is only so much one can do with a given source material. Even though if I would do this today, I would make different choices, I am still fairly content with the fruits of my labour. The videos have barely a dozen views, mostly from friends, but for me, the most important part was to actually make them and turn the disjointed Go-Pro clips into a real story.
 
-{{< youtube wjRhChwlWfQ >}}
-
-
 {{< youtubepl PLlE6oiMTxuWFDrJBZScGVbeMlUdwgWx-1 >}}
