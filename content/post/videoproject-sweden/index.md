@@ -1,9 +1,9 @@
 ---
 title: "Video project Backpacking Sweden"
-subtitle: "Learning how to tell a story from a simple trip"
+subtitle: "Learning how to tell a story in a video"
 
 # Summary for listings and search engines
-summary: "Learning how to tell a story from a simple trip"
+summary: "Learning how to tell a story in a video"
 
 # Link this post with a project
 projects: [Open Science]
