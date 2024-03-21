@@ -6,7 +6,7 @@ subtitle: "Learning how to tell a story in a video"
 summary: "Learning how to tell a story in a video"
 
 # Link this post with a project
-projects: [Open Science]
+# projects: [Open Science]
 
 # Date published
 date: "2024-03-17T00:00:00Z"

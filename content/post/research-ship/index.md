@@ -6,7 +6,7 @@ subtitle: "After many years I finally went to sea on a research ship"
 summary: "After many years I finally went to sea on a research ship"
 
 # Link this post with a project
-projects: [Open Science]
+# projects: [Open Science]
 
 # Date published
 date: "2024-03-18T00:00:00Z"
