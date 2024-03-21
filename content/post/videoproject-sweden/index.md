@@ -1,5 +1,5 @@
 ---
-title: "Video project Backpacking Sweden"
+title: "Video project *Backpacking Sweden*"
 subtitle: "Figuring out how to tell a story as video"
 # Summary for listings and search engines
 summary: "Figuring out how to tell a story as video"
@@ -38,9 +38,9 @@ categories:
 ---
 
 
-Storytelling has always been fascinating to me. As a child and teenager I was an avid reader and I loved books. So much so, that I attempted to write books myself. At some point I hope to complete them, but currently I just don't have the time.
+Storytelling has always been fascinating to me. As a child and teenager I loved books and was an avid reader and even attempted to write books myself. At some point I hope to find the time to complete them, bt in the meantime I wanted to try something nore manageable: Learning how to tell a story in a video.
 
-Therefore, I settled on something nore manageable: Learning how to tell a story in a video. Not a particular story, just how to make *a* story out of an event. A hiking trip in Sweden with a friend of mine was the perfect opportunity for me to explore the world of motion picture storytelling. Fixed chronology, clear start end end, lots of small issues to be solved, lots of material to cut, combine, and arrange. And photos by my friend that I also used to express our child-like joy at all the red houses.
+Not a particular story, just how to make *a* story out of an event. A hiking trip in Sweden with a friend of mine was the perfect opportunity for me to explore the world of motion picture storytelling. Fixed chronology, clear start end end, lots of small issues to be solved, lots of material to cut, combine, and arrange. And photos by my friend that I also used to express our child-like joy at all the red houses.
 
 {{< youtube R9Qn-w69POk>}}
 
