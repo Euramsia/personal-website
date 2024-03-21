@@ -1,15 +1,15 @@
 ---
-title: "Fulfilling a childhood dream"
-subtitle: "After many years I finally went to sea on a research ship"
+title: "Video project Backpacking Sweden"
+subtitle: "Learning how to tell a story from a simple trip"
 
 # Summary for listings and search engines
-summary: "After many years I finally went to sea on a research ship"
+summary: "Learning how to tell a story from a simple trip"
 
 # Link this post with a project
 projects: [Open Science]
 
 # Date published
-date: "2024-03-18T00:00:00Z"
+date: "2024-03-17T00:00:00Z"
 
 # Date updated
 lastmod: "2024-03-19T00:00:00Z"
@@ -20,7 +20,7 @@ draft: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: "The ship leaving port"
+  caption: "My friend with our water"
   focal_point: ""
   placement: 2
   preview_only: true
@@ -38,26 +38,15 @@ categories:
 - Personal
 ---
 
-![Me](me.jpg "Me, on a research ship, on the Atlantic")
 
-Ever since I read about the research vessel *Polarstern* in the children's magazine Geolino I wanted to do research on such a ship. I still remember how 12 year old me was sitting in on the sunny floor and imagined myself into the freezing arctic on an important research mission.
+Storytelling has always been fascinating to me. As a child and teenager I was an avid reader and I loved books. So much so, that I attemted to write books myself. My perfectionism prevented me from finishing, but I have hundreds of pages of worldbuilding and story drafts still laying around, just waiting to be finally written as story. At some point I hope to come around, but currently I just don't have the time.
 
-But I was little and it was just a dream, unachieveable, nearly forgotten over the years. That is, until one day towards the end of my Bachelor's, I came to talk about childhood dreams with a friend of mine, who had a seafaring friend with some good advice. Once I knew where to look it was easy to find lead scientists going on cruises but this wasn't a normal year, this was spring 2020 ... cruises were put on ice, travel was restricted, and I instead turned to [fundraising for the Red Cross](https://felixschweigkofler.com/post/fundraising) and preparing for my Master's in Utrecht.
+Therefore, I settled on something a bit shorter, that had also interested me for some time: How to tell a story in a video. Not a particular story, just how to make *a* story oit of any event. The hiking trip in Sweden with a friend of mine was the perfect opportunity for me to explore the world of motion picture storytelling. Fixed chronology, clear start end end, lots of small issues to be solved, lots of material to cut, combine, and arrange. Also photos by my friend that I used for our childish joy at all the red houses.
 
-In the following years I tried again and again, but Covid measures made planning difficult, administrative hurdles were raised, and cruises clashed with important dates from my study. Finally, in 2023, I started again in earnest and searched for dozens of cruises and tracked down the lead scientists. It was the work of days. Answers began to trickle in, but spots are hard sought-after and cruises filled for many months in advance, so mail after mail was a no. I was almost ready to expand my search to international ships, when I opened one more mail, expecting yet another friendly rejection and best wishes, but it wasn't. That time, it was an offer.
+{{< youtube R9Qn-w69POk>}}
 
-An assistant had cancelled and they could do with a helping hand. Just weeks after I began this last search, but more than a decade after a boy began to dream, I headed to the port and got onto a ship. A large research vessel. To do science on the ocean. It was geophysics instead of biology and the Atlantic instead of the Arctic, but that didn't matter. I made it. After all the effort and failures. Achieving this dream had become so important to me that finally setting foot on the ship felt more like the end of a journey, rather than the beginning. It felt a bit unreal.
+But boy had I underestimated how much work it would be ... I ended up working 50+ hours to produce about one hour of video. Especially, because I wasn't certain what the pace of the story should be. The travel Youtuber Shiey was a big inspiration, already for recording the material, but it was still difficult to translate that inspiration to a consistent narration; which level of details to show when in service of what.
 
-{{< rawhtml >}} 
-<video width=100% controls autoplay>
-    <source src="ship.mp4" type="video/mp4">
-    Your browser does not support the video tag. 
-</video>
-{{< /rawhtml >}}
+With feedback from friends and family I tuned and polished, until I felt like additional effort wasn't justified anymore, especially given the limits of the source material. Cutting and editing is powerful, but there is only so much one can do with a given source material. Even though if I would do this today, I would make different choices, I am still fairly content with the fruits of my labour. The videos have barely a dozen views, mostly from friends, but for me, the most important part was to actually make them and turn the disjointed Go-Pro clips into a real story.
 
-
-Therefore, I feared that during the single-minded effort to secure a spot on a cruise, my expectations for the journey might have grown too much, but luckily they hadn't. We were putting out measuring devices and monitoring the ship's own ongoing measurements of the seafloor and it all felt properly exciting and significant. The topic was far off my expertise, but I learned quickly about the intent behind our research and got interested in the preliminary results we were seeing. To do all this on the ocean was a very peculiar feeling. Surrounded by just water, confined to a ship, it feels as if the world has become very small. It is just the ship now, and just these people. Everything else feels like a vague possibily in the distance. The day is dominated by the routine of the ship. The outside world is far. The usual worries of life diminish. As if the ship was in its own dimension. A subtle, but very curious experience.
-
-I want to believe that even this last part is something my 12-year-old self intuitively felt, when he dreamed himself on this ship.
-
-![Ocean](ocean.jpg "An attemtp to convey the feeling of the ocean-dimension")
+{{< youtube wjRhChwlWfQ>}}
