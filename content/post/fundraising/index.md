@@ -1,9 +1,9 @@
 ---
 title: "Fundraising for the Red Cross"
-subtitle: "Where I learned about the power of professional sales experience"
+subtitle: "Unlocking the power of professional sales experience"
 
 # Summary for listings and search engines
-summary: "Where I learned about the power of professional sales experience"
+summary: "Unlocking the power of professional sales experience"
 
 # Date published
 date: "2020-08-24T00:00:00Z"
