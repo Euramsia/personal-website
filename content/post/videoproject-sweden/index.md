@@ -39,9 +39,9 @@ categories:
 ---
 
 
-Storytelling has always been fascinating to me. As a child and teenager I was an avid reader and I loved books. So much so, that I attemted to write books myself. My perfectionism prevented me from finishing, but I have hundreds of pages of worldbuilding and story drafts still laying around, just waiting to be finally written as story. At some point I hope to come around, but currently I just don't have the time.
+Storytelling has always been fascinating to me. As a child and teenager I was an avid reader and I loved books. So much so, that I attempted to write books myself. At some point I hope to complete them, but currently I just don't have the time.
 
-Therefore, I settled on something a bit shorter, that had also interested me for some time: How to tell a story in a video. Not a particular story, just how to make *a* story oit of any event. The hiking trip in Sweden with a friend of mine was the perfect opportunity for me to explore the world of motion picture storytelling. Fixed chronology, clear start end end, lots of small issues to be solved, lots of material to cut, combine, and arrange. And photos by my friend that I also used to express our child-like joy at all the red houses.
+Therefore, I settled on something nore manageable: Learning how to tell a story in a video. Not a particular story, just how to make *a* story out of an event. A hiking trip in Sweden with a friend of mine was the perfect opportunity for me to explore the world of motion picture storytelling. Fixed chronology, clear start end end, lots of small issues to be solved, lots of material to cut, combine, and arrange. And photos by my friend that I also used to express our child-like joy at all the red houses.
 
 {{< youtube R9Qn-w69POk>}}
 
