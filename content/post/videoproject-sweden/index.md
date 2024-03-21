@@ -1,5 +1,5 @@
 ---
-title: "Video project *Backpacking Sweden*"
+title: "Video project 'Backpacking Sweden'"
 subtitle: "Figuring out how to tell a story as video"
 # Summary for listings and search engines
 summary: "Figuring out how to tell a story as video"
