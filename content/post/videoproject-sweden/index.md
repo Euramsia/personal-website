@@ -45,7 +45,7 @@ Therefore, I settled on something nore manageable: Learning how to tell a story 
 
 {{< youtube R9Qn-w69POk>}}
 
-But boy had I underestimated how much work cutting and editing the main video would be ... I ended up working 50+ hours for one hour of playtime. Especially, because I wasn't certain what the pace of the story should be. The travel Youtuber Shiey was a big inspiration, already while recording the material, but it was still difficult to translate that inspiration to a consistent narration; which level of details to show when in service of what.
+But boy had I underestimated how much work cutting and editing the main video would be ... I ended up working 50+ hours for one hour of playtime. Especially, because I wasn't certain what the pace of the story should be. The travel Youtuber Shiey was a big inspiration, already while recording the material, but it was still difficult to translate that inspiration to a consistent narration and find my own style; which level of details to show when in service of what.
 
 With feedback from friends and family I tuned and polished, until I felt like additional effort wasn't justified anymore, especially given the limits of the source material. Cutting and editing is powerful, but there is only so much one can do with a given source material. Even though if I would do this today, I would make different choices, I am still fairly content with the fruits of my labour. The videos have barely a dozen views, mostly from friends, but for me, the most important part was to actually make them and turn the disjointed Go-Pro clips into a real story.
 
