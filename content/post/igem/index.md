@@ -1,9 +1,9 @@
 ---
 title: "Student research competition - iGEM 2019"
-subtitle: "Where my team and I worked on saving the bees and learned how to do research"
+subtitle: "Sweat, tears, and saving the bees"
 
 # Summary for listings and search engines
-summary: "Where my team and I worked on saving the bees and learned how to do research"
+summary: "Sweat, tears, and saving the beesh"
 
 # Link this post with a project
 projects: [beeosensor]
