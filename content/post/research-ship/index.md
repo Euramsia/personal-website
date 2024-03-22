@@ -49,7 +49,7 @@ In the following years I tried again and again, but Covid measures made planning
 An assistant had cancelled and they could do with a helping hand. Just weeks after I began this last search, but more than a decade after a boy began to dream, I headed to the port and got onto a ship. A large research vessel. To do science on the ocean. It was geophysics instead of biology and the Atlantic instead of the Arctic, but that didn't matter. I made it. After all the effort and failures. Achieving this dream had become so important to me that finally setting foot on the ship felt more like the end of a journey, rather than the beginning. It felt a bit unreal.
 
 {{< rawhtml >}} 
-<video width=100% controls autoplay>
+<video width=100% controls>
     <source src="ship.mp4" type="video/mp4">
     Your browser does not support the video tag. 
 </video>
