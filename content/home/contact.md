@@ -1,10 +1,10 @@
 ---
 # An instance of the Contact widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: contact
+widget: Kcontact
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 130
