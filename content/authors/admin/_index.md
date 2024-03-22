@@ -51,12 +51,16 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/felixschweigkofler
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/felixschweigkofler/
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Felix-Schweigkofler
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-5632-8799
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/felixschweigkofler/
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
