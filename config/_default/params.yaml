@@ -38,14 +38,14 @@ office_hours: ''
 #  - 'Wednesday 09:00 to 10:00'
 appointment_url: '' # 'https://calendly.com'
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/F_Schweigkofler'
-  - icon: linkedin
-    icon_pack: fab
-    name: Network
-    link: 'https://www.linkedin.com/in/felixschweigkofler/'
+  - icon: ''
+    icon_pack: ''
+    name: ''
+    link: ''
+  - icon: ''
+    icon_pack: ''
+    name: ''
+    link: ''
 
 # Site header
 
