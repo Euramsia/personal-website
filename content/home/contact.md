@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact
-subtitle: (I might not get notified if you are on mobile and/or VPN. In that case use the contact above.)
+title: Contact form
+subtitle: Attention - I might not get notified if you are on mobile and/or VPN. In that case use the address provided by the mail-icon at the top of the page.
 
 content:
   # Automatically link email and phone or display as text?
