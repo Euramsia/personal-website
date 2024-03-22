@@ -10,7 +10,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: (I might not get notified if you are on mobile and/or VPN. In that case use the contact above.)
 
 content:
   # Automatically link email and phone or display as text?
