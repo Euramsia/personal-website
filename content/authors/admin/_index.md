@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:felixschweigkofler{[(ät)]}gmail.com'
+  link: '/#contact'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/F_Schweigkofler
