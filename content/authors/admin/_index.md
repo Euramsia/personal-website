@@ -18,13 +18,11 @@ bio: I would like to know how living works
 
 # Interests to show in About widget
 interests:
-- name: Genetics
-- name: Complex systems
-- name: Data analysis
-- name: Open Science
-  url: https://www.felixschweigkofler.com/post/what-is-molecular-biology/
-- name: How does living work, actually?
-  url: https://www.felixschweigkofler.com/post/what-is-molecular-biology/
+- Genetics
+- Complex systems
+- Data analysis
+- Open Science
+- <a href="https://www.uu.nl/en/organisation/experimental-psychology">How does living work, actually?</a>
 
 # Education to show in About widget
 education:
