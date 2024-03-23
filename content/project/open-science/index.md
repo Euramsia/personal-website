@@ -40,15 +40,15 @@ slides: ''
 
 It is a deep conviction of mine that we as academics have the responsibility to be effective in our research and transparent in our communication. Open science not concerns the social, political, financial, and legal environment in which scientists work and asks all the right questions (and has some very good answers, in my opinion). A major interest of mine are research transparancy and open data, as well as how recognition and (financial) rewards for scientific work are structured.
 
-**Doing my part.**
+**Doing my part (so far ...)**
 
-For half a year, I worked as student assistant at Utrecht University's <font color="00CCCC">**Road to Open Science**</font> podcast ([Twitter](https://twitter.com/R2OSpodcast), [Spotify](https://open.spotify.com/show/6GvtmgOjs4lc76Aiz9RO46), [Soundcloud](https://soundcloud.com/utrechtyoungacademy)) that invites Open Science enthusiasts who contribute to the movement. It explores the many topics in academia that are touched by OS. I contributed especially to the episode ["Faces of Open Science"](https://open.spotify.com/episode/5s435lLwFcIPMjv6IxZugB), where two philosophers of science tell us about the "archetypes" within the Open Science movement that they found in their research. Doing the interview was a blast and really helped me to understand the motives of my fellow researchers better.
+For half a year, I worked as student assistant at Utrecht University's <font color="00CCCC">**Road to Open Science**</font> podcast ([Twitter](https://twitter.com/R2OSpodcast), [Spotify](https://open.spotify.com/show/6GvtmgOjs4lc76Aiz9RO46), [Soundcloud](https://soundcloud.com/utrechtyoungacademy)) that invites Open Science enthusiasts who contribute to the movement. It explores the many topics in academia that are touched by OS. I contributed especially to the episode ["Faces of Open Science"](https://open.spotify.com/episode/5s435lLwFcIPMjv6IxZugB), where two philosophers of science tell us about the "archetypes" within the Open Science movement that they found in their research.
 
 ![podcasting](podcasting.jpeg "Recording the episode Faces of Open Science")
 
-I was a co-founder of <font color="00CCCC">**SIOS Utrecht**</font>, the (now defunct) [Student Initiative for Open Science](https://openscience-utrecht.com/sios-utrecht-1/). We were supported by the Open Science Community Utrecht (OSCU) and hoped to create a small community of like-minded students, but alas, we were not able to secure a succession before the founding members departed into different directions. Students are awfully busy and Open Science yet too abstract, it seems. Remaining public legacy is a [talk about preregistration](https://www.youtube.com/watch?v=_AHprT0mosw), but we learned a clear lesson about the difficulty of creating even a tiny a social movement and respect for those people and movements that achieve their goals.
+I also was a co-founder of <font color="00CCCC">**SIOS Utrecht**</font>, the (now defunct) [Student Initiative for Open Science](https://openscience-utrecht.com/sios-utrecht-1/). We were supported by the Open Science Community Utrecht (OSCU) and hoped to create a small community of like-minded students, but alas, we were not able to secure a succession before the founding members departed into different directions. Students are awfully busy and Open Science yet too abstract, it seems. Remaining public legacy of SIOS is a [talk about preregistration](https://www.youtube.com/watch?v=_AHprT0mosw), but we learned a clear lesson about the difficulty of creating even a tiny a social movement and respect for those people and movements that achieve their goals.
 
-But of course, the global Open Science movement is alive and well!
+But of course, the Open Science movement in general is alive and well!
 
 **Doing your part**
 
