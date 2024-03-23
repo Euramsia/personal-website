@@ -22,7 +22,8 @@ interests:
 - Complex systems
 - Data analysis
 - Open Science
-- <a href="https://www.uu.nl/en/organisation/experimental-psychology">How does living work, actually?</a>
+- <a href="https://www.felixschweigkofler.com/project/open-science/">Open Science</a>
+- <a href="https://www.felixschweigkofler.com/post/how-does-living-work-actually">How does living work, actually?</a>
 
 # Education to show in About widget
 education:
