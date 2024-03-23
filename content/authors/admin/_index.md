@@ -22,7 +22,7 @@ interests:
 - Complex systems
 - Data analysis
 - Open Science
-- How does living work, actually?
+- [How does living work, actually?](post/what-is-life-actually)
 
 # Education to show in About widget
 education:
