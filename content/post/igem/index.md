@@ -3,7 +3,7 @@ title: "Student research competition - iGEM 2019"
 subtitle: "Sweat, tears, and saving the bees"
 
 # Summary for listings and search engines
-summary: "Sweat, tears, and saving the beesh"
+summary: "Sweat, tears, and saving the bees"
 
 # Link this post with a project
 projects: [beeosensor]
