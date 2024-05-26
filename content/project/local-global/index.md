@@ -1,6 +1,6 @@
 ---
 title: Local-global perception bias 
-summary: A thorough conceptual-empirical analysis of three tasks, disproving that perception bias is a unitary construct.
+summary: Attemting to bring more conceptual rigor into a theory that needs it
 tags:
 - Research
 - Student
@@ -36,6 +36,12 @@ url_video: ""
 
 slides: ''
 ---
-Local-global perception bias is a psychological paradigm that concerns the perception of local and global visual information. As the major internship project for my master I am examining the relations between different tasks used and probe deeper into the concept to understand how valid it is in the current form.
+Local-global bias is a psychological paradigm that describes the perception of local and global information in figures such as the three figures above. Which of the lower two is more similar to the top figure? The left figure has the same local elements and the right figure has the same global shape.
 
-I preregistered [the project](https://osf.io/n8sge/) on the Open Science Framework. All code, all data and all other resources to understand and replicate my research will be available there, once I finished the project.
+Right now this seems like a philosophical question, but if you only get a brief glimps of the top figure (250 milliseconds) and only then you see the two bottom figures and need to choose quickly and intuitively, it becomes a psychological task. Now it is no longer about what *you* think, but about how *your brain* thinks.
+
+There are many questions around this task, that are still not fully solved. Does your response even tell us something about you, or is it random? Is it stable over time? What does your mood have to do with it? Do autists have a bias towards the local elements?
+
+Regadless of what question one tries to answer, it is paramount that the implications of the task are well-understoodon a conceptual level. However, so far the research on this task has not been conceptually consistent enough and many different variations of the task have been used, without testing whether they all do indeed measure the same thing. Furthermore, the analysis becomes more complex the more closely you think about it and the simple bias for the local or global level suddenly is split up into multiple aspects: Does it matter whether the elements and the global shape are the same or different? What if you look at the response time and not just the response itself? 
+
+With my research I am trying to bring some more conceptual structure into these and other questions and also begin to answer some of them empirically. Without a rigorous understanding of the task, research on local-global bias will not be able to connect all the empirical elements to an overarching theory and be forever stuck on the local level.
