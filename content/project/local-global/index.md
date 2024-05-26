@@ -46,4 +46,4 @@ Regadless of what question one tries to answer, it is paramount that the implica
 
 With my research I am trying to bring some more conceptual structure into these and other questions and also begin to answer some of them empirically. Without a rigorous understanding of the task, research on local-global bias will not be able to connect all the empirical elements to an overarching theory and be forever stuck on the local level.
 
-As I am very commited to [Open Science](https://www.felixschweigkofler.com/project/open-science/) principles, I am working on publishing 19 datasats of local-global bias tasks and R-packages that I developed for an easier workflow.
+As I am commited to [Open Science](https://www.felixschweigkofler.com/project/open-science/) principles, I am working on publishing 19 datasats of local-global bias tasks and R-packages that I developed for an easier workflow.
