@@ -12,7 +12,7 @@ date: "2020-03-01T00:00:00Z"
 lastmod: "2021-01-08T00:00:00Z"
 
 # Is this an unpublished draft?
-draft: false
+draft: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
