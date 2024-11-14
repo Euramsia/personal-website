@@ -12,7 +12,7 @@ date: "2020-08-24T00:00:00Z"
 lastmod: "2022-01-08T21:32:00Z"
 
 # Is this an unpublished draft?
-draft: false
+draft: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -35,14 +35,14 @@ categories:
 - Blog
 - Personal
 ---
-*The following post is about my experience from the first summer of fundraising, reworked with the insights from the second summer of fundraising.*
+*This post is my first summer of fundraising, edited in 2024.*
 
-In summer 2020, I was a fundraiser for the Red Cross in Germany, a job unlike any other. For an entire week, the first thought in the morning was:
-> This job is so strange.
+In summer 2020, I was a fundraiser for the Red Cross in Germany, a job unlike any other I've done before. For the entire first week, I woke up with the thought:
+> I have such a strange job.
 
-In the second week I got used to it and now, six weeks and over 100,000 Euro in collected donations later, I feel able to formulate where this feeling came from and what it means.
+In the second week I got used to it and now, six weeks and over 100,000 Euro in collected donations later, I feel able to formulate where this feeling came from.
 
-But let's start from the beginning.
+Let's start from the beginning.
 
 ### THE RED CROSS IN A NUTSHELL
 
@@ -52,11 +52,11 @@ The Red Cross is an important aid agency in Germany with a variety of services, 
 
 ### FUNDRAISING IN A NUTSHELL
 
-And this is where fundraising comes into play. When was the last time you finished lunch, thought “Hey, I should donate to XYZ?”, and actually transferred money? If you are anything like me, this has happend once in your life, and it wasn't for the Red Cross. Therefore, we are a great example why fundraising donations is important. People need a reason to donate money, a spark or maybe a gentle push. Sometimes the spark comes in the form of Red Cross volunteers saving you after a car crash, and sometimes the gentle push is fundraiser knocking at the door, starting the pitch with <font color="900D09">*“Hallo, Servus, I’m from the Red Cross. We are here in Hintertupfing for our big support campaign. Your neighbors are already supporting us, surely you will also join in!"*</font>
+And this is where fundraising comes into play. When was the last time you finished lunch, thought “Hey, I should donate to XYZ?”, and actually transferred money? If you are anything like me, this has happend once in your life, and it wasn't for the Red Cross. Therefore, we are a great example why fundraising donations is important. People need a reason to donate money ... or a gentle push. Sometimes the reason is being saved in a car craash and sometimes the gentle push is fundraiser knocking at the door. <font color="900D09">*“Hallo, Servus, I’m from the Red Cross. We are here in Hintertupfing for our big support campaign. Your neighbors are already supporting us, surely you will also join in!"*</font>
 
-**It works.** Door-to-door fundraising is empirically shown to be the most effective and also most efficient form of convincing people to donate, if it is done professionally, with the right training and expertise, for example though agencies like [KOBER GmbH](https://deinferienjob.com/unternehmen/). Letter campaigns sometimes barely break even while our door-to-door fundraising effort brought in the costs tenfold and more. G<font color="900D09">*"This is how your local Red Cross can train and equip the volunteers that keep you safe, day and night!"*</font> The 100000 Euro I mentioned before is the money just from "my" donors that will go to the Red Cross over the following 7 years - the average duration a donor keeps contributing.
+**It works.** Door-to-door fundraising is empirically shown to be the most effective and most efficient form of fundraising when done professionally, for example though agencies like [KOBER GmbH](https://deinferienjob.com/unternehmen/). Letter campaigns sometimes barely break even while our door-to-door fundraising effort brought in the costs tenfold and more. G<font color="900D09">*"This is how your local Red Cross can train and equip the volunteers that keep you safe, day and night!"*</font> The 100000 Euro I mentioned before is the money just from "my" donors that will go to the Red Cross over the following 7 years - the average duration a donor keeps contributing.
 
-**Why it works.** We all *want* to do good deeds. But usually, this desire to contribute to worthwhile causes is buried under several layers of doubts, laziness, and indecisiveness. Our task as fundraisers is to unblock the desire and let the money flow to where it is needed, while leaving the donor with a smile. That good feeling is important, because donors can terminate their support at any time: <font color="900D09">*"We are the Red Cross, we are known for our voluntary nature, that’s why* you *decide what amount you want to support us with and for how long you want to support us."*</font> Just pressuring or guilt-tripping people to donate or to donate higher amounts might work initially, but if it does not feel right, they will cancel the support, and fundraisers rightfully only get a comission for donors that stay for two or more years.
+**Why it works.** We all *want* to do good deeds but usually this desire is buried under several layers of doubts, laziness, and indecisiveness. Our task as fundraisers is to unblock the desire, while leaving the donor with a good feeling. That good feeling is important, because donors can terminate their support at any time: <font color="900D09">*"We are the Red Cross, we are known for our voluntary nature, that’s why* you *decide what amount you want to support us with and for how long you want to support us."*</font> Just pressuring or guilt-tripping people to donate or to donate higher amounts might work initially, but if it does not feel right, people will cancel.
 
 ### 4 LESSONS I LEARNED
 
