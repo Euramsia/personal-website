@@ -18,11 +18,10 @@ bio: I would like to know how living works
 
 # Interests to show in About widget
 interests:
-- Genetics and DNA
+- Genetics
 - Complex systems
 - Data analysis
 - <a href="https://www.felixschweigkofler.com/project/open-science/">Open Science</a>
-- <a href="https://www.felixschweigkofler.com/post/how-does-living-work-actually">How does living work, actually?</a>
 
 # Education to show in About widget
 education:
@@ -76,9 +75,9 @@ email: ""
 highlight_name: true
 ---
 
-I am a research assistant at the deparment of Experimental Psychology at Utrecht University, exploring the poorly understood concept of visual local-global perception bias. My educational background is **Molecular Biology (BSc)** and **Neuroscience and Cognition (MSc)**, with a strong interest in quantitative and computational approaches.
+I am a beginning researcher based in the Netherlands. I recently completed a research assistantship at the deparment of Experimental Psychology at Utrecht University, exploring the poorly understood concept of visual local-global perception bias. My educational background is **Molecular Biology (BSc)** and **Neuroscience and Cognition (MSc)**, with a strong interest in quantitative and computational approaches.
 
-During my Bachelor's I gained experience in wetlab microbiology and genetics, which kindled a deep fascination. After concluding my current statistical and modelling-based cognition research, I will therefore turn to biologically-focused research, especially my main interest **genetics** with a systems perspective, but over the long term I would also like to touch on neurobiology, ageing, and/or cognition.
+During my Bachelor's I gained experience in wetlab microbiology and genetics, kindling a deep fascination with DNA. After concluding my current statistical and modelling-based cognition research, I will therefore turn to biologically-focused research, especially my main interest **genetics** with a systems perspective, but over the long term I would also like to touch on neurobiology, ageing, and/or cognition.
 
 For the next step of my academic career, I am therefore **searching for a PhD position** in genetics with a focus on bioinformatics.
 
