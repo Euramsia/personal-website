@@ -71,11 +71,11 @@ I will stick with iGEM, if you don't mind.
 
 ### In essence
 
-- I was member and later leader of the [student research team *iGEM NAWI Graz 2019*](https://www.tugraz.at/en/studying-and-teaching/studying-at-tu-graz/student-teams/student-competition-and-focus-teams/igem-nawi-graz/).
+- I was member and later leader of the [student research team *iGEM NAWI Graz 2019*](https://www.tugraz.at/tu-graz/services/news-stories/medienservice/einzelansicht/article/nawi-graz-studierendenteam-gewinnt-gold-fuer-diagnoseverfahren-zur-frueherkennung-der-amerikanischen-faulbrut).
 - We developed a method for the early detection of American foulbrood (AFB), a bee disease, and proved the principle - the **Beeosensor**
 - We won the awards for best diagnostics project and best human practices and were nominated for finalists, best poster and best presentation among about 80 overgraduate teams we were competing with.
 - And most importantly: we learned *a lot* over the course of the project.
-- A summary of our scientific results is [here](https://www.felixschweigkofler.com/work/beeosensor/).
+- A summary of our scientific results is [here](https://www.felixschweigkofler.com/project/beeosensor/).
 - You can find a short [podcast episode](https://www.aircampus-graz.at/podcasts/igem-2/) about us on AirCampus, the Podcast of the Universities of Graz.
 
 ![iGEM NAWI Graz 2019 Logo](igemlogo.png "iGEM NAWI Graz 2019 Logo, designed by Nikola Vinko and me")
