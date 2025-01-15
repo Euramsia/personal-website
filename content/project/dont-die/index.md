@@ -10,7 +10,7 @@ date: "2025-01-15T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Try not die
+  caption: Helth stonks
   focal_point: Smart
 
 links: ""
@@ -28,8 +28,9 @@ url_video: ""
 
 slides: ''
 ---
-Living healthily has long been somewhat relevant to me, but the allures of comfort have been strong and I had not yet found a way to make a healthy life my own. For me, it is important to have a clear and structured approach. One of these aspects is eating. After hitting 25, the realisation that I was now walking towards my grave gave gravity to the situation. Enough, that I for once stuck to a plan and was able to incrementally adapt and expanded it.
+After 25, the realisation that I was now walking towards my grave hit me stronger than expected. I realised, that I should now finally give proper attention to my body, the attention it deserves. After many half-assed attempts earlier in my life, I now found a structured and incremental approach that works well for me, that gives me the freedom to adapt slowly and find what works for me.
 
-I started with a few supplements, Vit D because I had a light deficit, Vit B12 because I started to go vegetarian, Omega 3, then I found Bryan Johnson's Blueprint, added some more supplememts, and started to design my own meals, modelled after his meals but adapted for myself with a focus on efficient preparation (I used to hate breakfast because I could not be bothered to stock up on breakfast things so it was an irregular affair that I often skipped. Now the breakfast is my most regular meal).
+I started with a few supplements, Vit D because I had a light deficit, Vit B12 because I started to go vegetarian, Omega 3 because it is Omega 3, then I found Bryan Johnson's Blueprint, added some more supplememts, and started to design my own meals, modelled after his meals but adapted for myself.
 
 After interest from some friends I started sharing my breakfast plan and it's following iterations with more meals added. When I hit a dozen, I decided it is time to put it here.
+
