@@ -32,7 +32,7 @@ After 25, the realisation that I was now walking towards my grave hit me stronge
 
 I started with a few supplements, Vit D because I had a light deficit, Vit B12 because I started to go vegetarian, Omega 3 because it is Omega 3, then I found Bryan Johnson's Blueprint, added some more supplememts, and started to design my own meals, modelled after his meals but adapted for myself.
 
-After interest from some friends I started sharing my breakfast plan and it's following iterations with more meals added. When I hit a dozen, I decided it is time to put it here.
+After interest from some friends I started sharing my breakfast plan and its following iterations with more meals added. When I hit a dozen, I decided it is time to put it here.
 
-![Table (v6)](Meals.xlsx "Table v6")
+[Table (v6)](Meals.xlsx "Table v6")
 
