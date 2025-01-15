@@ -34,3 +34,5 @@ I started with a few supplements, Vit D because I had a light deficit, Vit B12 b
 
 After interest from some friends I started sharing my breakfast plan and it's following iterations with more meals added. When I hit a dozen, I decided it is time to put it here.
 
+![Table (v6)](Meals.xlsx "Table v6")
+
