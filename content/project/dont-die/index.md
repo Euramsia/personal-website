@@ -36,3 +36,4 @@ After interest from some friends I started sharing my breakfast plan and its fol
 
 Download the [Excel table (v6)](Meals.xlsx "Table v6") and a [brief description](Meals.docx "Document v6") with warnings and advice.
 
+PS: In case you plan on buying something from Blueprint, you can use my code [FELIXSCHWEIGKOFLER](https://blueprint.bryanjohnson.com/FELIXSCHWEIGKOFLER) to give both of us a discount (25$ last time I checked) on our next purchase :)
