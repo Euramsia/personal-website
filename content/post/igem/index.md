@@ -72,11 +72,6 @@ In 2019, towards the end of my Bachelor's, I led an undergrad student research t
 
 Our team [*iGEM NAWI Graz 2019*](https://www.tugraz.at/tu-graz/services/news-stories/medienservice/einzelansicht/article/nawi-graz-studierendenteam-gewinnt-gold-fuer-diagnoseverfahren-zur-frueherkennung-der-amerikanischen-faulbrut) decided to a method for the early detection of American foulbrood (AFB), a severe bee disease. We delived the proof of principle for our project **Beeosensor** - a biosensor based on detection of the fouldbrood spores through highly specific binding by bacteriophages. We performed quite well, winning two awards and even being nominated for the Grand Prize. For scientific details, please go [here](https://www.felixschweigkofler.com/project/beeosensor/); this post is dedicated to my personal experience.
 
-We won the awards for best diagnostics project and best human practices and were nominated for finalists, best poster and best presentation among about 80 overgraduate teams we were competing with.
-- And most importantly: we learned *a lot* over the course of the project.
-- 
-- You can find a short [podcast episode](https://www.aircampus-graz.at/podcasts/igem-2/) about us on AirCampus, the Podcast of the Universities of Graz.
-
 ![iGEM NAWI Graz 2019 Logo](igemlogo.png "iGEM NAWI Graz 2019 Logo, designed by Nikola Vinko and me")
 
 ### The beginning
@@ -105,7 +100,7 @@ However, our project did progress, in painfully slow steps and with much reduced
 
 ### The congress
 
-Our sole hope for the congress in Boston was a gold rating, essentially the best out of three 'grades'. Half of the 80 other undergrads achieved that as well. The awards however are the real deal at iGEM. But with better financed teams from universities like MIT and Harvard, what chance did we have?
+Our sole hope for the congress in Boston was a gold rating, essentially the best out of three 'grades'. Half of the 80 other overgrads achieved that as well (some of our team were overgrad, but most were still umdergrad). The awards however are the real deal at iGEM. But with better financed teams from universities like MIT and Harvard, what chance did we have?
 
 The following 30 minutes were some of the most unreal in my life.
 
