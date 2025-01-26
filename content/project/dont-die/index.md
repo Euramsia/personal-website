@@ -28,7 +28,7 @@ url_video: ""
 
 slides: ''
 ---
-After 25, the thought that my body was now decaying hit me harder than expected and gave me the necessary push to (try to) give my body the attention that it deserves. After many half-assed attempts earlier in my life, I now follow a structured and incremental approach that gives me the freedom to accept and overcome occasional backsliding, adapt without pressure, and to find what works for me.
+After 25, the thought that my body was now decaying hit me harder than expected and gave me the necessary push to (try to) give my body the attention that it deserves. After many half-assed attempts earlier in my life, I now (try to) follow a somewhat structured and incremental approach that gives me the freedom to accept and overcome occasional backsliding, adapt without pressure, and to find what works for me.
 
 It all started with a few supplements: Vit D because I had a light deficit, Vit B12 because I started to go (more) vegetarian, Omega 3 because it is Omega 3, then I found Bryan Johnson's [Blueprint](https://blueprint.bryanjohnson.com), took some more supplememts, and started to design my own meals, modelled after his meals.
 
