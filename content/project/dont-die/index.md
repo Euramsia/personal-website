@@ -28,9 +28,9 @@ url_video: ""
 
 slides: ''
 ---
-[Meal table](Meals.xlsx "Table v6") [Excel table; ingredients, nutrition, importance, costs, buy links]
-[Additional info](Meals.docx "Document v6") [Word document; preparation advice, warnings]
-Current version: v8, 13.3.2025 (previous version are included as well); I will occasionally update these documents.
+[Meal table](Meals.xlsx "Table v6") [Excel table; ingredients, nutrition, importance, costs, buy links]  
+[Additional info](Meals.docx "Document v6") [Word document; preparation advice, warnings]  
+Current version: v8, 13.3.2025 (previous version are included as well); I will occasionally update these documents.  
 
 ### Why tho?
 
