@@ -28,12 +28,16 @@ url_video: ""
 
 slides: ''
 ---
-After 25, the thought that my body was now decaying hit me harder than expected and gave me the necessary push to (try to) give my body the attention that it deserves. After many half-assed attempts earlier in my life, I now (try to) follow a somewhat structured and incremental approach that gives me the freedom to accept and overcome occasional backsliding, adapt without pressure, and to find what works for me.
+[Meal table](Meals.xlsx "Table v6") [Excel table; ingredients, nutrition, importance, costs, buy links]
+[Additional info](Meals.docx "Document v6") [Word document; preparation advice, warnings]
+Current version: v8, 13.3.2025 (previous version are included as well); I will occasionally update these documents.
 
-It all started with a few supplements: Vit D because I had a light deficit, Vit B12 because I started to go (more) vegetarian, Omega 3 because it is Omega 3, then I found Bryan Johnson's [Blueprint](https://blueprint.bryanjohnson.com), took some more supplememts, and started to design my own meals, modelled after his meals.
+### Why tho?
 
-After interest from some friends I began to share my breakfast plan and its following iterations, adding more and more meals. When the list of friends hit a around dozen, I decided it was time to put it here.
+After 25, the thought that my body was now decaying hit me harder than expected. With this motivation I started looking more seriously into healthy living. After many half-assed attempts earlier in my life, I now (try to) follow an incremental approach that works best for me. If I have a clear, pragmatic, and functional structure that is written down I can maintain it more easily and also get back into it more easily if I temporarily fell out of it due to external or internal circumstances.
 
-If you are interested, you can download the [Excel table (v6)](Meals.xlsx "Table v6") and a [brief description](Meals.docx "Document v6") with warnings and advice. These documents will be updated somewhat regularly.
+The documents above are some meals that I designed and eat regularly, but many other aspects are relevant for a healthy life. I currently take [Blueprint supplements](https://blueprint.bryanjohnson.com), but even more important are good sleep, a good social life, and mental health.
 
-PS: In case you plan on buying something from Blueprint, you can use my code [FELIXSCHWEIGKOFLER](https://blueprint.bryanjohnson.com/FELIXSCHWEIGKOFLER) to give both of us a discount (25$ last time I checked) on our next purchase :)
+I began putting these documents here after several friends asked me for my recipes and sending the documents individually became tedious. In case you plan on buying something from Blueprint, you can use my code [FELIXSCHWEIGKOFLER](https://blueprint.bryanjohnson.com/FELIXSCHWEIGKOFLER) to give both of us a discount (25$ last time I checked) on our next purchase :)
+
+Stay healthy and don't die.
