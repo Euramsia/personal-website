@@ -36,8 +36,4 @@ Current version: v8, 13.3.2025 (previous version are included as well); I will o
 
 After 25, the thought that my body was now decaying hit me harder than expected. With this motivation I started looking more seriously into healthy living. After many half-assed attempts earlier in my life, I now (try to) follow an incremental approach that works best for me. If I have a clear, pragmatic, and functional structure that is written down I can maintain it more easily and also get back into it more easily if I temporarily fell out of it due to external or internal circumstances.
 
-The documents above are some meals that I designed and eat regularly, but many other aspects are relevant for a healthy life. I currently take [Blueprint supplements](https://blueprint.bryanjohnson.com), but even more important are good sleep, a good social life, and mental health.
-
-I began putting these documents here after several friends asked me for my recipes and sending the documents individually became tedious. In case you plan on buying something from Blueprint, you can use my code [FELIXSCHWEIGKOFLER](https://blueprint.bryanjohnson.com/FELIXSCHWEIGKOFLER) to give both of us a discount (25$ last time I checked) on our next purchase :)
-
-Stay healthy and don't die.
+The documents above are some meals that I designed and eat regularly. I began putting them here after several friends asked me for my recipes and sending the documents individually became tedious. Please remember, many other aspects are relevant for a healthy life, such as good sleep, a good social life, and mental health. For a while I took blueprint supplements, but their was some controversy around product quality and they seem their trustworthiness has become more doubtful, so I stopped. I am looking to put together my own mix of supplements from independent sources.
