@@ -12,8 +12,8 @@ role: PhD candidate, MSc
 organizations:
 - name: van Boxtel Lab, Prinses Maxima Centrum
   url: https://www.vanboxtellab.eu/
-- name: Experimental Psychology, Utrecht University
-  url: https://www.uu.nl/en/organisation/experimental-psychology
+#- name: Experimental Psychology, Utrecht University
+#  url: https://www.uu.nl/en/organisation/experimental-psychology
 
 # Short bio (displayed in user profile at end of posts)
 bio: I would like to know how living works 
