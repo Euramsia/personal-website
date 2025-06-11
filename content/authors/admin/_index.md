@@ -6,10 +6,12 @@ title: Felix Schweigkofler
 superuser: true
 
 # Role/position/tagline
-role: Research Assistant, MSc
+role: PhD candidate, MSc
 
 # Organizations/Affiliations to show in About widget
 organizations:
+- name: van Boxtel Lab, Prinses Maxima Centrum
+  url: https://www.vanboxtellab.eu/
 - name: Experimental Psychology, Utrecht University
   url: https://www.uu.nl/en/organisation/experimental-psychology
 
