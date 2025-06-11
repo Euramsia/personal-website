@@ -77,12 +77,12 @@ email: ""
 highlight_name: true
 ---
 
-I am a beginning researcher based in the Netherlands. I recently completed a research assistantship at the deparment of Experimental Psychology at Utrecht University, exploring the poorly understood concept of visual local-global perception bias. My educational background is **Molecular Biology (BSc)** and **Neuroscience and Cognition (MSc)**, with a strong interest in quantitative and computational approaches.
+I am an early career researcher in the field of cancer genomics based in the Netherlands. I started my PhD in 2025 at the van Boxtel Group at the Prinses Maxima Center for child oncology. My goal is to work mainly computationally but to deepen my understanding of the data with occasional wetlab projects.
 
-During my Bachelor's I gained experience in wetlab microbiology and genetics, kindling a deep fascination with DNA. After concluding my current statistical and modelling-based cognition research, I will therefore turn to biologically-focused research, especially my main interest **genetics** with a systems perspective, but over the long term I would also like to touch on neurobiology, ageing, and/or cognition.
+My previous work was on local-global perception bias, a concept in cognitive psychology that attempts to describe how local visual stimuli are integrated into larger global figures and the various effects involved in this process.
 
-For the next step of my academic career, I am therefore **searching for a PhD position** in genetics with a focus on bioinformatics.
+While the cognitive research was intriguing, I decided to deepen my biological skills with a pure bio-PhD. In the future I hope to combine the two. Let's see what comes of that.
 
-Furthermore, I am very interested in promoting **Open Science**, which I think is key for a positive and collaborative relationship within academia and between academia and society.
+Furthermore, I am interested in Open Science, which I think is key for a positive and collaborative relationship within academia and between academia and society.
 
 {{< icon name="download" pack="fas" >}} Open my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
