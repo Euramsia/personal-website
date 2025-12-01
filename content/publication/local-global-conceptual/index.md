@@ -1,11 +1,15 @@
 ---
-title: "Navon"
+title: "Understanding Navon: A detailed structural and conceptual analysis of a basic local–global task"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Sjoerd Stuit
+- Johan Wagemans
+- Tanja Nijboer
+- Leendert van Maanen
 - Stefan van der Stigchel
 
 date: "2025-10-20T00:00:00Z"
@@ -21,15 +25,15 @@ publishDate: "2021-12-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Psychonomic Bulletin & Review"
-publication_short: "PBR"
+publication: Psychonomic Bulletin & Review
+publication_short: PBR
 
-abstract: Very short abstract
+abstract: "When perceiving visual information, either the local parts or more commonly the global whole can dominate on a perceptual-cognitive level (local/global bias). Using hierarchical figures consisting of smaller local elements forming a larger global shape, researchers have tried to understand how this local–global bias emerges. However, despite extensive research, local–global biases remain an elusive concept (possibly partially due to inadequacies of the task design itself), with implicit assumptions untested and different effect metrics being in use. To provide conceptual clarity, this study presents a detailed description of metrics and effects (content validity) and discusses four major assumptions in the current literature. Where possible, these assumptions are tested on a basic local–global task (the so-called Navon task) across 18 datasets (> 8,000 participants). The metric reliability is tested on nine datasets (> 7,000 participants). Our conceptual reasoning attempts to disentangle the complexity of interference effects in hierarchical figure tasks and discusses a potential facilitation effect. Our empirical results most importantly indicate: (1) the independence of the biased precedence and biased interference metrics, underlining that local–global biases do not reflect a unitary construct, (2) the independence of local-to-global and global-to-local interference, and (3) a low split-half reliability for interference metrics. Based on these insights we argue for further re-evaluating the concept (and theory) of local–global biases, prioritizing research on a thorough conceptual (and theoretical) understanding of local–global tasks, a more consistent use of bias-related metrics in future studies, and a possible need for a more mechanistic approach to facilitate effective future research on hierarchical figure tasks."
 
 # Summary. An optional shortened abstract.
-summary: Very short summary
+summary: We show that local–global biases in visual perception are not a single construct even within a single task. We examine the structural and conceptual intricacies of the Navon task in depth to pave the way for a deeper understanding and more effective use of the paradigm.
 
-tags: [Knowledge]
+tags: [Psychology, Research]
 
 # Display this page in the Featured widget?
 featured: true
